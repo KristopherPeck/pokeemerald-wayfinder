@@ -2,6 +2,9 @@
 
 Pokémon Wayfinder is a personal Pokémon Emerald romhack project designed to expand and improve upon Gen 3 without just throwing every single available Pokémon and mechanic into the game. The plan is not only to expand Hoenn with new functionality, locations, and Pokémon but also to potentially expand beyond Hoenn and add new regions and storyline events. 
 
+# AI Usage
+No AI has been or will be used in the production of this romhack.
+
 # V1 Roadmap
 
 V1 is meant to be a starting point that starts implementing the mechanics we want to use that are from various games as well as making sure our expanded Pokémon selection is available throughout Hoenn. Some of these are relatively simple and their implementation for V1 may also be simple. Strikethroughs mark items that are completed and implemented. This list is subject to change. 
