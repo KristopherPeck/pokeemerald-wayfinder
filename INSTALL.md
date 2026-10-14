@@ -47,17 +47,17 @@ Only tested on x86_64 based systems.
 [Chrome OS instructions](docs/install/chromeos/CHROME_OS.md)
 
 # Building pokeemerald-expansion
-Follow these steps to build `pokeemerald-expansion`.
+Follow these steps to build `pokeemerald-wayfinder`.
 1. Navigate to the directory you want to keep the project in, be aware of any system specific limitations.
-2. Download `pokeemerald-expansion` with `git`
+2. Download `pokeemerald-wayfinder` with `git`
 
     ```console
-    git clone https://github.com/rh-hideout/pokeemerald-expansion
+    git clone https://https://github.com/KristopherPeck/pokeemerald-wayfinder
     ```
 3. Navigate to the newly downloaded project.
 
     ```console
-    cd pokeemerald-expansion
+    cd pokeemerald-wayfinder
     ```
 4. Build the project.
 
@@ -115,67 +115,6 @@ To build **pokeemerald.elf** with debug symbols and debug-compatible optimizatio
 ```console
 make debug
 ```
-
-# Choosing a branch
-**pokeemerald-expansion** has different branches that users can decide to use.
-
-## Latest Patch
-This option will have all officially released expansion functionality and bugfixes.
-
-## `master`
-The `master` branch has all of the functionality from "Latest Patch", as well as any bugfixes that have been discovered since that release.
-
-## `upcoming`
-The `master` branch has all of the functionality from "Latest Patch", as well as any functionality that has been added since that release.
-
-The bugfixes on `master` are occasionally merged into `upcoming`, but there is no official cadence.
-
-# Migrating from pokeemerald
-
-1. Set RHH as a git remote
-```console
-git remote add RHH https://github.com/rh-hideout/pokeemerald-expansion
-```
-
-2. Pull your desired branch
-There are three different options to pull from.
-```console
-git pull RHH master # if you've chosen to use the upcoming branch, replace the word master with upcoming.
-# If you've chosen the latest patch, replace the word master with expansion
-# If you've chosen Latest Patch, replace the word master with expansion/1.11.0 where 1.11.0 is replaced with whatever the latest released version is.
-```
-
-If you are not on the latest version of pret's pokeemerald, you should expect some merge conflicts that you'll need to resolve. Once complete, you'll be using **pokeemerald-expansion**.
-
-# Updating pokeemerald-expansion
-
-1. Set RHH as a git remote
-```console
-git remote add RHH https://github.com/rh-hideout/pokeemerald-expansion
-```
-
-2. Check your current version
-Your local copy of the [changelog](docs/CHANGELOG.md) will be updated with the version your repo is on.
-
-3. Select a target version
-We recommend incrementally updating to the next version using the following order below.
-If you are on a version older than 1.6.2, you should target 1.6.2..
-    * 1.6.2
-    * 1.7.4
-    * 1.8.3
-    * 1.9.4
-    * 1.10.3
-
-For example, if your version is 1.7.0, you should update to 1.7.4.
-
-4. Pull the target version
-```console
-git pull RHH expansion/X.Y.Z # Replace X, Y and Z with the target version, such as `1.9.3`, `master`, or `upcoming`.
-```
-
-You may have merge conflicts that you need to resolve.
-
-If you targeted a specific version that is not the latest version listed on the [tags](https://github.com/rh-hideout/pokeemerald-expansion/tags) page, you should repeat steps 3 and 4 until you are.
 
 # Useful additional tools
 
