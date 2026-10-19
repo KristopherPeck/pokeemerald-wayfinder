@@ -233,7 +233,7 @@ BattleFrontier_OutsideEast_EventScript_Camper::
 BattleFrontier_OutsideEast_Text_BattleTowerSign:
 	.string "This is the Battle Tower!\n"
 	.string "Keep the win streak as the toughest\l"
-	.string "Trainer!$"
+	.string "trainer!$"
 
 BattleFrontier_OutsideEast_Text_BattlePalaceSign:
 	.string "This is the Battle Palace!\n"
@@ -292,7 +292,7 @@ BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
 	.string "Did Scott bring you here, too?\n"
 	.string "What is it with that guy?\p"
 	.string "It sounds like he really does know\n"
-	.string "how to spot talented Trainers, but…\p"
+	.string "how to spot talented trainers, but…\p"
 	.string "I've never seen him battling in person\n"
 	.string "ever.$"
 
@@ -316,12 +316,12 @@ BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody:
 
 BattleFrontier_OutsideEast_Text_OnceBeatGymLeader:
 	.string "I may not look that impressive now,\n"
-	.string "but I once beat a Gym Leader.\p"
+	.string "but I once beat a gym leader.\p"
 	.string "Who knows, maybe I should give it\n"
 	.string "another shot at glory.$"
 
 BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles:
-	.string "I'm fast on my Bike, and that goes for\n"
+	.string "I'm fast on my bike, and that goes for\n"
 	.string "the way I battle, too.\p"
 	.string "I win matches in the blink of\n"
 	.string "an eye!$"
@@ -354,7 +354,7 @@ BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere:
 BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid:
 	.string "Do you know it?\n"
 	.string "The legend of the Battle Pyramid?\p"
-	.string "When there comes a confident Trainer\n"
+	.string "When there comes a confident trainer\n"
 	.string "reaching for the golden pinnacle,\l"
 	.string "there shall appear a man among men.\p"
 	.string "Don't know that legend?\n"
@@ -383,7 +383,7 @@ BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll:
 	.string "Yes!\n"
 	.string "I've finally got enough Battle Points!\p"
 	.string "I guess I'll trade for another giant\n"
-	.string "plush Doll!$"
+	.string "plush doll!$"
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere:
 	.string "Oh, yeah, okay!\n"
@@ -430,7 +430,7 @@ BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere:
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail:
 	.string "I…\n"
 	.string "I saw it!\p"
-	.string "There was a sticky sort of a POKéMON\n"
+	.string "There was a sticky sort of a Pokémon\n"
 	.string "with a long tail up ahead!\p"
 	.string "It was hiding under a boulder, and\n"
 	.string "it kept staring at me!$"

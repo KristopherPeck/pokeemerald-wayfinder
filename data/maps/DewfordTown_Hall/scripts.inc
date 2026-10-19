@@ -410,7 +410,7 @@ DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
 	.string "you're awake or asleep.\p"
 	.string "Absolutely, you're the\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "PROFESSOR, old sport!$"
+	.string "Professor, old sport!$"
 
 DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
 	.string "If you and me team up as a combo,\n"
@@ -420,7 +420,7 @@ DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
 DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Spot on, my friend!\p"
 	.string "We shall be the\n"
-	.string "“{STR_VAR_1}” DUO!\p"
+	.string "“{STR_VAR_1}” Duo!\p"
 	.string "Isn't that a ripe image?\n"
 	.string "Hahahah!$"
 

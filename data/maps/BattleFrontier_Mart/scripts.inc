@@ -45,7 +45,7 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "We came here to chaperon our\n"
+	.string "We came here to chaperone our\n"
 	.string "grandson.\p"
 	.string "But since we're here, we thought\n"
 	.string "we should get some souvenirs.$"

@@ -117,7 +117,7 @@ BattleFrontier_Lounge2_Text_FrontierManiacIntro::
 	.string "the Battle Frontier, I'm no. 1.\p"
 	.string "You can think of me as\n"
 	.string "the Frontier Maniac.\p"
-	.string "Just checking, but you are a Trainer,\n"
+	.string "Just checking, but you are a trainer,\n"
 	.string "isn't that right?\p"
 	.string "I'll happily share the hottest news\n"
 	.string "I gathered about the Battle Frontier.$"
@@ -144,9 +144,9 @@ BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this mysterious Trainer called\n"
+	.string "It's this mysterious trainer called\n"
 	.string "the Salon Maiden that runs the place.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenSilverMons::
@@ -168,9 +168,9 @@ BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
 
 BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this flamboyant Trainer called\n"
+	.string "It's this flamboyant trainer called\n"
 	.string "the Dome Ace that runs the place.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons::
@@ -193,9 +193,9 @@ BattleFrontier_Lounge2_Text_DomeAceGoldMons::
 
 BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this freaky Trainer called\n"
+	.string "It's this freaky trainer called\n"
 	.string "the Factory Head that runs the place.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
@@ -216,9 +216,9 @@ BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
 
 BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this scary Trainer called\n"
+	.string "It's this scary trainer called\n"
 	.string "the Pike Queen that runs the place.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
@@ -242,9 +242,9 @@ BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
 
 BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this cute Trainer called\n"
+	.string "It's this cute trainer called\n"
 	.string "the Arena Tycoon that runs the place.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons::
@@ -268,9 +268,9 @@ BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
 
 BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this sinister Trainer called\n"
+	.string "It's this sinister trainer called\n"
 	.string "the Palace Maven that runs the place.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
@@ -278,7 +278,7 @@ BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
 	.string "before?\p"
 	.string "When he's testing the opponent's\n"
 	.string "spirit, he's said to use these Pokémon:\p"
-	.string "A Poison & Flying-type BAT Pokémon,\n"
+	.string "A Poison & Flying-type Bat Pokémon,\n"
 	.string "a Normal-type Lazy Pokémon, and a\l"
 	.string "Water & Ice-type Transport Pokémon.$"
 
@@ -293,9 +293,9 @@ BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
 
 BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "Bet you didn't know this!\p"
-	.string "One of those top Trainers that Scott\n"
+	.string "One of those top trainers that Scott\n"
 	.string "calls the Frontier Brains is there.\p"
-	.string "It's this fiery-hot Trainer called\n"
+	.string "It's this fiery-hot trainer called\n"
 	.string "the Pyramid King that runs the place.$"
 
 BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
@@ -328,7 +328,7 @@ BattleFrontier_Lounge2_Text_DoubleBattleAdvice1::
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice2::
 	.string "Watch yourself in the battles here.\p"
-	.string "I hear there are Trainers that have\n"
+	.string "I hear there are trainers that have\n"
 	.string "strategies they developed just for\l"
 	.string "Double Battles.$"
 
@@ -339,7 +339,7 @@ BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
 	.string "offering Double Battles.$"
 
 BattleFrontier_Lounge2_Text_MultiBattleAdvice::
-	.string "All sorts of Trainers gather in\n"
+	.string "All sorts of trainers gather in\n"
 	.string "the Battle Salon.\p"
 	.string "Just think--you may run into your\n"
 	.string "friends or followers!\l"

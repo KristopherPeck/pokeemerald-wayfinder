@@ -288,7 +288,7 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "have no trouble getting through the\l"
 	.string "desert near Route 111.\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
-	.string "Challenging GymS…\p"
+	.string "Challenging gyms…\p"
 	.string "You're trying hard because you don't\n"
 	.string "want to lose to me, I bet!\p"
 	.string "{PLAYER}{KUN}, I think I should challenge\n"
@@ -299,7 +299,7 @@ LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
 	.string "Brendan: {PLAYER}, hey, it's been a while.\n"
 	.string "How's it going?\p"
 	.string "Hmm…\n"
-	.string "That's a decent collection of Badges.\p"
+	.string "That's a decent collection of badges.\p"
 	.string "All right, then.\n"
 	.string "You may as well have this.$"
 
@@ -325,7 +325,7 @@ LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "I've heard it would be best if it were\n"
 	.string "kept together with Pokémon and\l"
 	.string "carried about.\p"
-	.string "You are a Trainer, yes?\n"
+	.string "You are a trainer, yes?\n"
 	.string "And your Pokémon radiate vitality.\p"
 	.string "So, what say you?\n"
 	.string "Will you take this Egg to hatch?$"
@@ -375,7 +375,7 @@ LavaridgeTown_Text_OhYouLikeHotSprings:
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "I bathe in the hot springs every day.\p"
 	.string "I want to become a beautiful and strong\n"
-	.string "Gym Leader like Flannery.$"
+	.string "gym leader like Flannery.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
 	.string "If people put Pokémon in hot springs,\n"

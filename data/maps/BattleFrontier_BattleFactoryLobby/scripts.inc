@@ -323,7 +323,7 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of Trainers\n"
+	.string "Where the intelligence of trainers\n"
 	.string "is put to the test!\p"
 	.string "Welcome to the Battle Factory!\p"
 	.string "I am your guide to the Battle Swap\n"
@@ -389,7 +389,7 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
 	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "we award you these Battle Points.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
@@ -455,7 +455,7 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
 	.string "In recognition of your wealth of\n"
 	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.string "we award you these Battle Points.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
 	.string "Let me exchange your Pokémon\n"
@@ -522,16 +522,16 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
 	.string "You may swap Pokémon only with\n"
-	.string "the Trainer you have just defeated.\p"
+	.string "the trainer you have just defeated.\p"
 	.string "You may swap for only those Pokémon\n"
-	.string "used by the beaten Trainer.$"
+	.string "used by the beaten trainer.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
 	.string "After every battle you win, you may\n"
 	.string "swap for one of your defeated\l"
 	.string "opponent's Pokémon.\p"
 	.string "You will not be able to swap Pokémon\n"
-	.string "with the seventh Trainer in the event.$"
+	.string "with the seventh trainer in the event.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
 	.string "There are two key points to be aware\n"
@@ -547,5 +547,5 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
 	.string "In the Open Level, the rental Pokémon\n"
-	.string "and the opposing Trainers' Pokémon\l"
+	.string "and the opposing trainers' Pokémon\l"
 	.string "are all Level 100.$"

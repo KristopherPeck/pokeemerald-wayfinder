@@ -108,13 +108,13 @@ AquaHideout_B1F_EventScript_Grunt7::
 
 AquaHideout_B1F_Text_Grunt2Intro:
 	.string "If you want to know the secret about\n"
-	.string "our Hideout, you have me to beat!$"
+	.string "our hideout, you have me to beat!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
 	.string "I can't win at all…$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Our Hideout's secret?\p"
+	.string "Our hideout's secret?\p"
 	.string "Well, let's just say…\n"
 	.string "There's a submarine at the far end!\p"
 	.string "But, by now…\n"

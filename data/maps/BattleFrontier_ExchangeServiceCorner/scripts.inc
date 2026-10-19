@@ -387,8 +387,8 @@ BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "Oh, they're so nice!\n"
 	.string "I wish I had them!\l"
 	.string "Cute cushions!\l"
-	.string "Big plush Dolls!\l"
-	.string "Little plush Dolls!\l"
+	.string "Big plush dolls!\l"
+	.string "Little plush dolls!\l"
 	.string "I wish I had them all!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
@@ -420,7 +420,7 @@ BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
 	.string "A large poster with a Smoochum print.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A Smoochum cushion.\n"
+	.string "A Smoochum Cushion.\n"
 	.string "Place it on a mat or a desk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
@@ -440,7 +440,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
 	.string "Place it on a mat or a desk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO Doll.\n"
+	.string "A Ditto Doll.\n"
 	.string "Place it on a mat or a desk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
@@ -456,7 +456,7 @@ BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
 	.string "Place it on a mat or a desk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large Doll.\n"
+	.string "A Large Doll.\n"
 	.string "Place it on a mat or a desk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::

@@ -50,14 +50,14 @@ FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:
 	.string "See!\n"
-	.string "My Pokémon won all these Ribbons!\p"
-	.string "Have your Pokémon earned any Ribbons?\n"
+	.string "My Pokémon won all these ribbons!\p"
+	.string "Have your Pokémon earned any ribbons?\n"
 	.string "You can check them on your PokéNav.$"
 
 @ Unused
 FallarborTown_ContestHall_Text_CantWinEverywhere:
-	.string "I can't beat Gym Leaders…\p"
-	.string "I can't win any Contests…\p"
+	.string "I can't beat gym leaders…\p"
+	.string "I can't win any contests…\p"
 	.string "I've been here, there, and everywhere,\n"
 	.string "and it's all for naught…$"
 

@@ -289,13 +289,13 @@ DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Fighting-type Pokémon.\p"
 	.string "Going against him with Normal-type\n"
 	.string "Pokémon is asking for trouble.\p"
-	.string "Fighting Pokémon will lay a serious\n"
-	.string "smack down on Normal Pokémon,\l"
+	.string "Fighting-type Pokémon will lay a serious\n"
+	.string "smack down on Normal-type Pokémon,\l"
 	.string "so be careful!\p"
-	.string "What's worse, the Gym is as dark as\n"
+	.string "What's worse, the gym is as dark as\n"
 	.string "the ocean floor.\p"
 	.string "But it will get brighter after defeating\n"
-	.string "the Trainers in your way.\p"
+	.string "the trainers in your way.\p"
 	.string "Hey, okay, go for it!$"
 
 DewfordTown_Gym_Text_GymGuidePostVictory:
@@ -325,7 +325,7 @@ DewfordTown_Gym_Text_JocelynDefeat:
 DewfordTown_Gym_Text_JocelynPostBattle:
 	.string "I'm not going to waste this loss.\n"
 	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a Gym Leader…\p"
+	.string "One day I'll become a gym leader…\p"
 	.string "No, I'll become the Pokémon League\n"
 	.string "Champion!$"
 
@@ -377,7 +377,7 @@ DewfordTown_Gym_Text_CristianDefeat:
 
 DewfordTown_Gym_Text_CristianPostBattle:
 	.string "You win!\n"
-	.string "Go after that Badge!$"
+	.string "Go after that badge!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
 	.string "I'm Brawly!\n"
@@ -421,7 +421,7 @@ DewfordTown_Gym_Text_RegisteredBrawly:
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "I can see your talent becoming a giant\n"
 	.string "wave to cause a storm of astonishment\l"
-	.string "among Trainers one day!$"
+	.string "among trainers one day!$"
 
 DewfordTown_Gym_Text_GymStatue:
 	.string "Dewford Town Pokémon Gym$"
@@ -446,7 +446,7 @@ DewfordTown_Gym_Text_BrawlyRematchDefeat:
 DewfordTown_Gym_Text_BrawlyPostRematch:
 	.string "Brawly: Battling is vast and it's deep.\n"
 	.string "You can't see the bottom.\l"
-	.string "It's just like the sea of HOENN!$"
+	.string "It's just like the sea of Hoenn!$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
 	.string "Brawly: A wave may draw back, but it\n"

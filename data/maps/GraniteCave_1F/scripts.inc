@@ -25,7 +25,7 @@ GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
 	.string "Steven, I think it was.\p"
 	.string "He knew how to use Flash, so he ought\n"
 	.string "to be all right, but…\p"
-	.string "Well, for us Hikers, helping out those\n"
+	.string "Well, for us hikers, helping out those\n"
 	.string "that we meet is our motto.\p"
 	.string "Here you go, I'll pass this on to you.$"
 
@@ -34,6 +34,6 @@ GraniteCave_1F_Text_ExplainFlash:
 	.string "a Pokémon and use it.\p"
 	.string "It lights up even the inky darkness\n"
 	.string "of caves.\p"
-	.string "But, to use it, you need the Gym Badge\n"
+	.string "But, to use it, you need the gym badge\n"
 	.string "from Dewford's Pokémon Gym.$"
 

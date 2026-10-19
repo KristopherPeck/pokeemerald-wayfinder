@@ -357,7 +357,7 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Where the battling spirit of Trainers\n"
+	.string "Where the battling spirit of trainers\n"
 	.string "is put to the test!\p"
 	.string "I welcome you to the Battle Arena!\p"
 	.string "I am your guide to the Set KO Tourney!$"
@@ -446,7 +446,7 @@ BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
 	.string "We congratulate you for your splendid\n"
-	.string "string of wins over seven Trainers!$"
+	.string "string of wins over seven trainers!$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
 	.string "Your achievement will be recorded.\n"
@@ -465,7 +465,7 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
 	.string "Oh?\n"
-	.string "Your Bag seems to be full.\p"
+	.string "Your bag seems to be full.\p"
 	.string "I urge you to clear space and\n"
 	.string "return for your prize.$"
 
@@ -489,7 +489,7 @@ BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
 	.string "match on your Frontier Pass?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "I lost on the Referee's decision…\p"
+	.string "I lost on the referee's decision…\p"
 	.string "I don't think it was a good idea to only\n"
 	.string "use defensive moves and not attack…$"
 
@@ -528,7 +528,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
 	.string "three turns.\p"
 	.string "If the outcome is not decided after\n"
 	.string "three turns, it goes to judging.\p"
-	.string "The Referee will choose the winner\n"
+	.string "The referee will choose the winner\n"
 	.string "based on how the Pokémon battled.\p"
 	.string "Also, a Pokémon cannot be switched out\n"
 	.string "until its battle's outcome is decided.$"
@@ -538,7 +538,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
 	.string "This factor evaluates how aggressive\l"
 	.string "the battlers were.\p"
 	.string "The judging is based on how often\n"
-	.string "the Trainers ordered the use of\l"
+	.string "the trainers ordered the use of\l"
 	.string "offensive moves.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
@@ -570,11 +570,11 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
 	.string "A victory snatched from the Arena\n"
-	.string "Tycoon, and a seven-Trainer sweep!\p"
+	.string "Tycoon, and a seven-trainer sweep!\p"
 	.string "We congratulate you on your most\n"
 	.string "splendid challenge!$"
 
 BattleFrontier_BattleArenaLobby_Text_PleaseAcceptBattlePoints:
 	.string "My dear challenger, in recognition of\n"
 	.string "your indefatigable spirit, please\l"
-	.string "accept these Battle Point(s).$"
+	.string "accept these Battle Points.$"

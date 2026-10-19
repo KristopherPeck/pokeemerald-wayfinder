@@ -229,7 +229,7 @@ EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
 	.string "alone ended the crisis.\p"
 	.string "You overcame that difficult situation\n"
 	.string "by working as one with your Pokémon.\p"
-	.string "We Trainers raise Pokémon by giving\n"
+	.string "We trainers raise Pokémon by giving\n"
 	.string "them items and by teaching them new\l"
 	.string "techniques for battle.\p"
 	.string "But we ourselves also learn many\n"
@@ -249,7 +249,7 @@ EverGrandeCity_ChampionsRoom_Text_Defeat:
 	.string "And yet it was utterly glorious!\p"
 	.string "Kudos to you, {PLAYER}{KUN}!\p"
 	.string "You are a truly noble Pokémon\n"
-	.string "Trainer!$"
+	.string "trainer!$"
 
 EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 	.string "Wallace: The Pokémon you sent into\n"
@@ -317,8 +317,8 @@ EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
 
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
 	.string "Wallace: I'm sorry, but…\p"
-	.string "From here on, only those Trainers who\n"
-	.string "have become Champions may enter.\p"
+	.string "From here on, only those trainers who\n"
+	.string "have become champions may enter.\p"
 	.string "You'll have to wait outside with\n"
 	.string "Professor Birch.$"
 

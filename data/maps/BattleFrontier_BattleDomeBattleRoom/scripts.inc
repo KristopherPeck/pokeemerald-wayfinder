@@ -954,12 +954,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
 	.string "What an unbelievable finish!\n"
 	.string "We have a double knockout!\p"
 	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a Referee'S decision.\p"
+	.string "rules call for a referee'S decision.\p"
 	.string "Please wait while the judging\n"
 	.string "is under way.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "The Referees have reached\n"
+	.string "The referees have reached\n"
 	.string "a decision!\p"
 	.string "The winner is…\n"
 	.string "Oh, my goodness!\l"
@@ -967,7 +967,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "The Referees have reached\n"
+	.string "The referees have reached\n"
 	.string "a decision!\p"
 	.string "The winner is…\n"
 	.string "Oh, my goodness!\l"
@@ -983,7 +983,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Will this Trainer race to\n"
+	.string "Will this trainer race to\n"
 	.string "the championship?\p"
 	.string "$"
 
@@ -998,12 +998,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "The Trainer is on fire for\n"
+	.string "The trainer is on fire for\n"
 	.string "the first championship try!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
-	.string "A win here means this Trainer\n"
+	.string "A win here means this trainer\n"
 	.string "advances to the final!\p"
 	.string "$"
 
@@ -1018,12 +1018,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
 	.string "Can anyone hope to beat this\n"
-	.string "Trainer?\p"
+	.string "trainer?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
 	.string "Do battles exist solely for\n"
-	.string "this Trainer?\p"
+	.string "this trainer?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
@@ -1040,7 +1040,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Will this Trainer do as expected\n"
+	.string "Will this trainer do as expected\n"
 	.string "and advance to the finals?\p"
 	.string "$"
 
@@ -1053,7 +1053,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
 	.string "Feel the glow of a true master!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "And now… The Trainer standing in\n"
+	.string "And now… The trainer standing in\n"
 	.string "{PLAYER}'s record-setting path…\p"
 	.string "Yes! The one and only!\n"
 	.string "The Battle Dome Commissioner!\l"

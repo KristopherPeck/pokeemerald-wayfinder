@@ -65,8 +65,8 @@ AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 	.string "Are you a Team Magma grunt?\p"
 	.string "I hear that Team Magma is trying to\n"
 	.string "awaken an awesome Pokémon at their\l"
-	.string "Hideout.\p"
-	.string "But where might their Hideout be?$"
+	.string "hideout.\p"
+	.string "But where might their hideout be?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
 	.string "What? What? What do you want with \n"
@@ -114,6 +114,6 @@ AquaHideout_1F_Text_Grunt1Defeat:
 	.string "I lost it!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "I took the loss for the Team,\n"
+	.string "I took the loss for the team,\n"
 	.string "but I did my job…$"
 

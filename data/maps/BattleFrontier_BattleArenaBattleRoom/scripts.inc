@@ -616,7 +616,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
 	.string "Greta: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Let's see your Frontier Pass!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
 	.string "The Guts Symbol took on\n"

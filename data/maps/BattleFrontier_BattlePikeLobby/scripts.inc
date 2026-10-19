@@ -272,7 +272,7 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Where the luck of Trainers\n"
+	.string "Where the luck of trainers\n"
 	.string "is put to the test…\p"
 	.string "Welcome to the Battle Pike…\p"
 	.string "I am your guide to the Battle Pike…$"
@@ -363,7 +363,7 @@ BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
 	.string "To commemorate your completion of\n"
 	.string "the Battle Choice challenge, we award\l"
-	.string "you these Battle Point(s)…$"
+	.string "you these Battle Points…$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
@@ -386,7 +386,7 @@ BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
 	.string "In recognition of your amazing luck,\n"
-	.string "we award you these Battle Point(s)…$"
+	.string "we award you these Battle Points…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
 	.string "Arrgh! I blew my chance!\n"
@@ -397,7 +397,7 @@ BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
 	.string "I've completed the challenge 10 times\n"
 	.string "now, but I've never had to battle\l"
-	.string "a Trainer once.$"
+	.string "a trainer once.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 	.string "Listen! Listen!\p"
@@ -411,7 +411,7 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "I can't figure it out at all!\p"
 	.string "I've taken the challenge a bunch\n"
 	.string "of times, but all I ever do is run into\l"
-	.string "Trainers whichever path I choose.$"
+	.string "trainers whichever path I choose.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 	.string "The Battle Choice's rules are listed.$"
@@ -420,12 +420,12 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "The Bag and PokéNav may not be used\n"
+	.string "The bag and PokéNav may not be used\n"
 	.string "during a Battle Choice challenge.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
 	.string "During a Battle Choice challenge,\n"
-	.string "any Berry or herb held by Pokémon\l"
+	.string "any berry or herb held by Pokémon\l"
 	.string "will be effective only once.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:

@@ -304,7 +304,7 @@ BattleFrontier_OutsideWest_Text_BattleDomeSign:
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
 	.string "This is the Battle Factory!\n"
-	.string "Seek out the toughest POKéMON!$"
+	.string "Seek out the toughest Pokémon!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
 	.string "This is the Battle Pike!\n"
@@ -317,12 +317,12 @@ BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your Ticket?$"
+	.string "May I see your ticket?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
 	.string "{PLAYER} doesn't have the Ticket…\p"
 	.string "I'm terribly sorry.\p"
-	.string "You must have a Ticket to board\n"
+	.string "You must have a ticket to board\n"
 	.string "the ferry.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
@@ -366,9 +366,9 @@ BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
 	.string "It's not as if just anyone can come\n"
 	.string "here, you know?\p"
-	.string "Only those Trainers who've been\n"
+	.string "Only those trainers who've been\n"
 	.string "recognized as tough are brought here.\p"
-	.string "That's why many Trainers don't even\n"
+	.string "That's why many trainers don't even\n"
 	.string "know about the Battle Frontier.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
@@ -437,7 +437,7 @@ BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
 	.string "Ah, so this here is the Battle Dome?\n"
-	.string "I won't let Gentlemen beat me!\p"
+	.string "I won't let gentlemen beat me!\p"
 	.string "But where is the entrance?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
@@ -489,21 +489,21 @@ BattleFrontier_OutsideWest_Text_DomeAceIsMine:
 	.string "Oh, shush!\n"
 	.string "Keep that racket down!\p"
 	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some Gym Leader!\p"
+	.string "to cheering for some gym leader!\p"
 	.string "The Dome Ace is mine!\n"
 	.string "The only idol for me!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
 	.string "Those people squabbling over there…\p"
 	.string "It's hard to believe, but they once\n"
-	.string "were Trainers, and good ones, too.\p"
+	.string "were trainers, and good ones, too.\p"
 	.string "They used to be incredibly tough,\n"
 	.string "and they were famous, too.\p"
 	.string "But they were obliterated by this\n"
-	.string "certain Trainer at a tournament.\p"
+	.string "certain trainer at a tournament.\p"
 	.string "They were so thoroughly whipped,\n"
-	.string "they became smitten by the Trainer.\p"
-	.string "Now they're just fans of the Trainer.\n"
+	.string "they became smitten by the trainer.\p"
+	.string "Now they're just fans of the trainer.\n"
 	.string "They go cheer for their idol at the\l"
 	.string "Battle Dome every day now.$"
 

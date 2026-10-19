@@ -92,8 +92,8 @@ FortreeCity_Text_SawGiganticPokemonInSky:
 	.string "gigantic Pokémon in the sky.\p"
 	.string "It seemed to squirm as it flew toward\n"
 	.string "Route 131.\p"
-	.string "By the way… Sniff…\n"
-	.string "Um… You, uh…smell singed.\p"
+	.string "By the way… sniff…\n"
+	.string "Um… you, uh…smell singed.\p"
 	.string "Were you at a volcano or something?$"
 
 FortreeCity_Text_SomethingBlockingGym:

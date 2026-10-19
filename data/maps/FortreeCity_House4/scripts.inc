@@ -70,7 +70,7 @@ FortreeCity_House4_Text_BringsWorldCloserTogether:
 
 FortreeCity_House4_Text_GoBirdPokemon:
 	.string "There!\n"
-	.string "Go, Bird Pokémon!$"
+	.string "Go, bird Pokémon!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
 	.string "Heheh, I asked my Wingull to run\n"
@@ -83,7 +83,7 @@ FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
 	.string "What is it holding?\p"
 	.string "A Mental Herb?\n"
 	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a Trainer, so you can\n"
+	.string "But I'm not a trainer, so you can\n"
 	.string "have it.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:

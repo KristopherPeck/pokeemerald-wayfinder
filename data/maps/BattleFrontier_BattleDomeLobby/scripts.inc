@@ -437,7 +437,7 @@ BattleFrontier_BattleDomeLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle:
-	.string "Where the strategies of Trainers\n"
+	.string "Where the strategies of trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Dome!\p"
 	.string "I am your guide to the Single Battle\n"
@@ -454,7 +454,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
 	.string "The Single Battle Tournament\n"
 	.string "is exactly as the name suggests--\l"
 	.string "a tournament of Single BattleS.\p"
-	.string "All participating Trainers must\n"
+	.string "All participating trainers must\n"
 	.string "enter three Pokémon each.\p"
 	.string "In each battle, one of the three\n"
 	.string "Pokémon must be held in reserve.\p"
@@ -463,7 +463,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
 	.string "Choose the two battling Pokémon after\n"
 	.string "examining the opponent's trio.\p"
 	.string "You win the tournament by defeating\n"
-	.string "four Trainers.\p"
+	.string "four trainers.\p"
 	.string "Battle Points are awarded to\n"
 	.string "the tournament winner.\p"
 	.string "If you want to interrupt your\n"
@@ -549,7 +549,7 @@ BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2:
 	.string "I must save the data. Is that okay?$"
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle:
-	.string "Where the strategies of Trainers\n"
+	.string "Where the strategies of trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Dome!\p"
 	.string "I am your guide to the Double Battle\n"
@@ -563,7 +563,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
 	.string "The Double Battle Tournament\n"
 	.string "is exactly as the name suggests--\l"
 	.string "a tournament of Double BattleS.\p"
-	.string "All participating Trainers must\n"
+	.string "All participating trainers must\n"
 	.string "enter three Pokémon each.\p"
 	.string "In each battle, one of the three\n"
 	.string "Pokémon must be held in reserve.\p"
@@ -572,7 +572,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
 	.string "Choose the two battling Pokémon after\n"
 	.string "examining the opponent's trio.\p"
 	.string "You win the tournament by defeating\n"
-	.string "four Trainers.\p"
+	.string "four trainers.\p"
 	.string "Battle Points are awarded to\n"
 	.string "the tournament winner.\p"
 	.string "If you want to interrupt your\n"
@@ -619,12 +619,12 @@ BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction:
 	.string "Under Construction!$"
 
 BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation:
-	.string "When a Trainer chains tournament\n"
+	.string "When a trainer chains tournament\n"
 	.string "wins at the Battle Dome, he or she\l"
 	.string "gains a reputation as a star.\p"
-	.string "Tough Trainers are drawn by that\n"
+	.string "Tough trainers are drawn by that\n"
 	.string "reputation to the Battle Dome.\p"
-	.string "A true superstar is a Trainer who\n"
+	.string "A true superstar is a trainer who\n"
 	.string "can keep winning tournaments.$"
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound:
@@ -647,7 +647,7 @@ BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker:
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints:
 	.string "In recognition of your strategy--\n"
 	.string "a thing of beauty it was, too--\l"
-	.string "we award you these Battle Point(s)!$"
+	.string "we award you these Battle Points!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordLastMatch:
 	.string "Would you like to record your\n"
@@ -666,21 +666,21 @@ BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
 	.string "based on the toughness of Pokémon\l"
 	.string "held by Trainers.\p"
 	.string "The matchups avoid having tough\n"
-	.string "Trainers face each other right away.$"
+	.string "trainers face each other right away.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
 	.string "The tournament chart, or as we call it,\n"
 	.string "the “Tree,” is available for viewing\l"
-	.string "in the Waiting Room from any guide.\p"
+	.string "in the waiting room from any guide.\p"
 	.string "The Tournament Tree will provide\n"
 	.string "several kinds of data.\p"
 	.string "The data on view includes the previous\n"
 	.string "tournament's results, the Pokémon held\l"
-	.string "by Trainers, and the battle styles of\l"
-	.string "Trainers.$"
+	.string "by trainers, and the battle styles of\l"
+	.string "trainers.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules:
 	.string "If battling Pokémon faint at the same\n"
 	.string "time--a double KO--in a tournament\l"
-	.string "match, the REFEREES will review\l"
+	.string "match, the referees will review\l"
 	.string "the match and declare the winner.$"

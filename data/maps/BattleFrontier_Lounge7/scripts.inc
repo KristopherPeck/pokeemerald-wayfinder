@@ -304,9 +304,9 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
 	.string "Buhahaha!\p"
 	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough Trainer.\p"
+	.string "but I used to be one tough trainer.\p"
 	.string "I had a reputation as the toughest\n"
-	.string "Beauty around, I tell you!\p"
+	.string "beauty around, I tell you!\p"
 	.string "… … … … … …\p"
 	.string "What is it now?\n"
 	.string "You don't believe me.\p"
@@ -355,7 +355,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "I know it's hard to see now, but I used\n"
 	.string "to be one fantastic Trainer.\p"
 	.string "I had a reputation as the most\n"
-	.string "invincible Swimmer around, I tell you!\p"
+	.string "invincible swimmer around, I tell you!\p"
 	.string "… … … … … …\p"
 	.string "What's wrong?\n"
 	.string "You don't believe me.\p"
@@ -381,9 +381,9 @@ BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
 	.string "stay out here together, would they?$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "When I was just a wee Youngster,\n"
+	.string "When I was just a wee youngster,\n"
 	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us Trainers.\p"
+	.string "They were idols among us trainers.\p"
 	.string "Even now, age hasn't dulled their\n"
 	.string "abilities.\p"
 	.string "In fact, their Pokémon moves have\n"

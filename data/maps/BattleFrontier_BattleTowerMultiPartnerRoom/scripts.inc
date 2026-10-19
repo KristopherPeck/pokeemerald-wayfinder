@@ -278,7 +278,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_EventScript_Partner8::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner:
 	.string "Please find a partner from out of\n"
-	.string "the Trainers gathered here.$"
+	.string "the trainers gathered here.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
 	.string "{PLAYER}, you have not found a partner\n"
@@ -288,7 +288,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2:
 	.string "Then, please find a partner from\n"
-	.string "the Trainers gathered here.$"
+	.string "the trainers gathered here.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner::
 	.string "Thank you for choosing a partner.\p"
@@ -619,7 +619,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Reject::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Intro::
 	.string "Hey, there, I'm rockin' and a-rollin'!\n"
 	.string "Pokémon, I be controllin'!\p"
-	.string "I'm {STR_VAR_3} the rappin' SAILOR.\n"
+	.string "I'm {STR_VAR_3} the rappin' Sailor.\n"
 	.string "Don't be mistakin' me for no wailer!\p"
 	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\n"
 	.string "Me, you shouldn't be quick to dismiss!$"
@@ -1580,7 +1580,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerReject::
 	.string "the next time we run into each other.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro::
-	.string "I'm {STR_VAR_1}, and I'm a CAMPER!$"
+	.string "I'm {STR_VAR_1}, and I'm a Camper!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1::
 	.string "I've been raising one {STR_VAR_1}-\n"
