@@ -542,7 +542,7 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "The power contained in the meteorite…\p"
+	.string "The power contained in the Meteorite…\p"
 	.string "By amplifying its power with this\n"
 	.string "machine, Mt. Chimney's volcanic\l"
 	.string "activity will instantly intensify…\p"
@@ -588,14 +588,14 @@ MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
 	.string "But don't think that this is the last\n"
 	.string "you've seen of Team Magma.\p"
 	.string "Fufufu…\p"
-	.string "Even without the meteorite, if we\n"
+	.string "Even without the Meteorite, if we\n"
 	.string "obtain that orb… Fufufu…$"
 
 MtChimney_Text_TabithaIntro:
 	.string "Hehehe!\p"
 	.string "So you've come all the way here!\p"
 	.string "But you're too late!\n"
-	.string "I've already delivered the meteorite\l"
+	.string "I've already delivered the Meteorite\l"
 	.string "from Meteor Falls to the Boss!$"
 
 MtChimney_Text_TabithaDefeat:
@@ -671,7 +671,7 @@ MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "See for yourself what the fanatics\n"
 	.string "of Team Magma are up to!\p"
 	.string "They're trying to inject the stolen\n"
-	.string "meteorite's power into the volcano!\p"
+	.string "Meteorite's power into the volcano!\p"
 	.string "Doing something like that will cause\n"
 	.string "the volcano's eruption!$"
 
@@ -727,13 +727,13 @@ MtChimney_Text_OhFineThen:
 	.string "Oh, fine then.$"
 
 MtChimney_Text_MeteoriteFittedOnMachine:
-	.string "A meteorite is fitted on a mysterious\n"
+	.string "A Meteorite is fitted on a mysterious\n"
 	.string "machine…\p"
 	.string "The machine seems to be storing\n"
-	.string "energy in the meteorite.$"
+	.string "energy in the Meteorite.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "A meteorite is fitted on a mysterious\n"
+	.string "A Meteorite is fitted on a mysterious\n"
 	.string "machine…\p"
 	.string "Do you want to remove the Meteorite?$"
 

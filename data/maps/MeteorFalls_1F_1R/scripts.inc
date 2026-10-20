@@ -233,7 +233,7 @@ MeteorFalls_1F_1R_EventScript_MetCozmo::
 
 MeteorFalls_1F_1R_Text_WithThisMeteorite:
 	.string "Hehehe!\p"
-	.string "With this meteorite, that thing in\n"
+	.string "With this Meteorite, that thing in\n"
 	.string "Mt. Chimney will…$"
 
 MeteorFalls_1F_1R_Text_DontExpectMercyFromMagma:
@@ -253,7 +253,7 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
 	.string "But it's too much trouble to deal with\n"
 	.string "you all…\p"
 	.string "Heh, it doesn't matter!\p"
-	.string "We've got the meteorite, so off to\n"
+	.string "We've got the Meteorite, so off to\n"
 	.string "Mt. Chimney we go!\p"
 	.string "Hehehe! Be seeing you, you Team\n"
 	.string "Aqua dingbats!$"
@@ -294,16 +294,16 @@ MeteorFalls_1F_1R_Text_MeetProfCozmo:
 	.string "Team Magma asked me to guide them\n"
 	.string "to Meteor Falls…\p"
 	.string "But they tricked me.\n"
-	.string "They even took my meteorite away…\p"
+	.string "They even took my Meteorite away…\p"
 	.string "And then another similar bunch,\n"
 	.string "Team Aqua showed up.\p"
 	.string "After that…\n"
 	.string "I don't understand any of it.\p"
 	.string "But that Team Magma…\p"
 	.string "What are they going to do with that\n"
-	.string "meteorite at Mt. Chimney?$"
+	.string "Meteorite at Mt. Chimney?$"
 
 MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney:
 	.string "Professor Cozmo: But that Team Magma…\p"
 	.string "What are they going to do with that\n"
-	.string "meteorite at Mt. Chimney?$"
+	.string "Meteorite at Mt. Chimney?$"

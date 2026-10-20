@@ -61,7 +61,7 @@ FallarborTown_Text_RegionKnownForMeteors:
 	.string "This region's been known for meteors\n"
 	.string "since the olden days.\p"
 	.string "They say Meteor Falls was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "by a falling Meteorite long ago.$"
 
 FallarborTown_Text_MyPreciousAzurill:
 	.string "See! Take a look!\n"
