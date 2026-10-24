@@ -158,14 +158,14 @@ static void MatchCall_BufferCallMessageTextByRematchTeam(const match_call_text_d
 static void MatchCall_GetNameAndDescByRematchIdx(u32, const u8 **, const u8 **);
 
 // Special flag ID that indicates the start of a section of match calls
-// related to a gym leader's rematch. It's expected that there will be
+// related to a Gym Leader's rematch. It's expected that there will be
 // exactly 3 calls after the call associated with this flag, with text
 // that follows this format:
 // - Call 1: A basic 'preparing for a rematch' call.
 //           Remains active until the player beats the game (FLAG_SYS_GAME_CLEAR).
 // - Call 2: Congratulating the player on their success, still preparing.
-//           Remains active until the gym leader is ready for a rematch.
-// - Call 3: Requesting the rematch. Active whenever the gym leader is ready.
+//           Remains active until the Gym Leader is ready for a rematch.
+// - Call 3: Requesting the rematch. Active whenever the Gym Leader is ready.
 // - Call 4: Expressing their admiration of the player. Active after defeating
 //           them in a rematch and if they're not ready yet for another battle.
 #define REMATCH_CALL_START 0xFFFE
@@ -181,7 +181,7 @@ static const struct MatchCallStructNPC sMrStoneMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_RUSTBORO_CITY,
     .flag = 0xFFFF,
-    .desc = COMPOUND_STRING("DEVON PRES"),
+    .desc = COMPOUND_STRING("Devon PRES"),
     .name = COMPOUND_STRING("MR. STONE"),
     .textData = (const match_call_text_data_t[]) {
         { MatchCall_Text_MrStone1,  ALWAYS_AVAILABLE,                    FLAG_ENABLE_MR_STONE_POKENAV },

@@ -284,7 +284,7 @@ PokemonLeague_ChampionsRoom_Text_PostBattle::
 	.string "Why?\n"
 	.string "Why did I lose?\p"
 	.string "I never made any mistakes raising\n"
-	.string "my POKéMON…\p"
+	.string "my Pokémon…\p"
 	.string "Darn it! You're the new POKéMON\n"
 	.string "LEAGUE CHAMPION!\p"
 	.string "Although I don't like to admit it…$"

@@ -105,9 +105,9 @@ SootopolisCity_Gym_B1F_Text_ConniePostBattle:
 	.string "need to walk on each floor tile once.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
-	.string "The POKéMON GYM of the highest level\n"
-	.string "in the HOENN region…\p"
-	.string "That's the SOOTOPOLIS GYM.$"
+	.string "The Pokémon Gym of the highest level\n"
+	.string "in the Hoenn region…\p"
+	.string "That's the Sootopolis GYM.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 	.string "What a high level you are!$"

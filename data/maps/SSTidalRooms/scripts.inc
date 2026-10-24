@@ -131,7 +131,7 @@ SSTidalRooms_Text_LeaPostBattle:
 
 SSTidalRooms_Text_LeaNotEnoughMons:
 	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "But you don't even have two Pokémon…$"
 
 SSTidalRooms_Text_GarretIntro:
 	.string "Ah, you've come just in time.\p"
@@ -159,7 +159,7 @@ SSTidalRooms_Text_NaomiPostBattle:
 	.string "A world cruise on a luxury liner has its\n"
 	.string "charms, I must say…\p"
 	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.string "side to touring Hoenn by ferry.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "Uh… Hi! I… I'm not acting suspicious!\n"

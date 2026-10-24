@@ -489,7 +489,7 @@ BattleFrontier_OutsideWest_Text_DomeAceIsMine:
 	.string "Oh, shush!\n"
 	.string "Keep that racket down!\p"
 	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some gym leader!\p"
+	.string "to cheering for some Gym Leader!\p"
 	.string "The Dome Ace is mine!\n"
 	.string "The only idol for me!$"
 

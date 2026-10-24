@@ -741,7 +741,7 @@ CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
 	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type POKéMON.\p"
+	.string "Teach it to Fire-type POKéMON.\p"
 	.string "VULPIX or CHARMELEON would be\n"
 	.string "ideal for that move.$"
 
@@ -786,7 +786,7 @@ CinnabarIsland_Gym_Text_AveryPostBattle::
 	.string "for you to understand.$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type POKéMON.\n"
+	.string "I like using Fire-type POKéMON.\n"
 	.string "I just do.$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
@@ -849,13 +849,13 @@ CinnabarIsland_Gym_Text_GymGuyPostVictory::
 	.string "You beat that firebrand!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "CINNABAR POKéMON GYM\n"
+	.string "CINNABAR Pokémon Gym\n"
 	.string "LEADER: BLAINE\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "CINNABAR POKéMON GYM\n"
+	.string "CINNABAR Pokémon Gym\n"
 	.string "LEADER: BLAINE\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

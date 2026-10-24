@@ -171,7 +171,7 @@ const u8 gText_MatchCallExpert_Shelby_Intro2[] = _("style of battling.");
 const u8 gText_MatchCallYoungster_Calvin_Strategy[] = _("I do what I can.");
 const u8 gText_MatchCallYoungster_Calvin_Pokemon[] = _("I use different types.");
 const u8 gText_MatchCallYoungster_Calvin_Intro1[] = _("I'm going to keep working");
-const u8 gText_MatchCallYoungster_Calvin_Intro2[] = _("until I beat a GYM LEADER.");
+const u8 gText_MatchCallYoungster_Calvin_Intro2[] = _("until I beat a Gym Leader.");
 
 const u8 gText_MatchCallFisherman_Elliot_Strategy[] = _("I battle patiently.");
 const u8 gText_MatchCallFisherman_Elliot_Pokemon[] = _("WATER POKéMON to battle!");
@@ -323,7 +323,7 @@ const u8 gText_MatchCallPkmnTrainer_Wally_Pokemon[] = _("The 1st POKéMON I caug
 const u8 gText_MatchCallPkmnTrainer_Wally_Intro1[] = _("POKéMON and I have grown");
 const u8 gText_MatchCallPkmnTrainer_Wally_Intro2[] = _("stronger together.");
 
-const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("ROCK-type power attack.");
+const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("Rock-type power attack.");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Pokemon[] = _("I prefer rock-hard POKéMON.");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Intro1[] = _("A LEADER of a big GYM bears");
 const u8 gText_MatchCallRockinWhiz_Roxanne_Intro2[] = _("a lot of responsibility.");

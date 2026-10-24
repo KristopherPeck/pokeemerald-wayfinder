@@ -164,7 +164,7 @@ Route10_Text_HermanRematchIntro::
 	.string "Did I show you my POKéMON?$"
 
 Route10_Text_HeidiRematchIntro::
-	.string "I went out to a POKéMON GYM again.\p"
+	.string "I went out to a Pokémon Gym again.\p"
 	.string "…But I lost as usual.$"
 
 Route10_Text_TrentRematchIntro::
@@ -516,7 +516,7 @@ Route19_Text_TonyRematchIntro::
 
 Route19_Text_AnyaRematchIntro::
 	.string "You always get to ride your\n"
-	.string "POKéMON…\p"
+	.string "Pokémon…\p"
 	.string "It looks so relaxing.\n"
 	.string "Can I have it if I win?$"
 
@@ -945,7 +945,7 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
 	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
+	.string "have the strongest Pokémon…\p"
 	.string "It doesn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 

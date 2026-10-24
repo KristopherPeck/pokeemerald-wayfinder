@@ -76,7 +76,7 @@ SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern:
 	.string "CAPT. STERN commissioned me to\n"
 	.string "design a ferry.\p"
 	.string "Oh! That there…\n"
-	.string "Are they DEVON GOODS?\p"
+	.string "Are they Devon GOODS?\p"
 	.string "But, hmm…\n"
 	.string "This won't do…\p"
 	.string "CAPT. STERN went off somewhere.\n"
@@ -98,7 +98,7 @@ SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran:
 	.string "who knows the seas…$"
 
 SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs:
-	.string "DOCK: Hi! MR. BRINEY's joined us to\n"
+	.string "DOCK: Hi! Mr. Briney's joined us to\n"
 	.string "lend us his help.\p"
 	.string "Thanks to the veteran sailor, the\n"
 	.string "ferry is steadily coming together.$"
@@ -113,7 +113,7 @@ SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
 	.string "technology's march.$"
 
 SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock:
-	.string "MR. BRINEY: Ah, {PLAYER}{KUN}!\n"
+	.string "Mr. Briney: Ah, {PLAYER}{KUN}!\n"
 	.string "It's been too long!\p"
 	.string "Aye, since I met you, this old sea dog's\n"
 	.string "been feeling frisky!\p"

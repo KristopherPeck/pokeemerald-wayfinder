@@ -1,5 +1,5 @@
 gBirchDexRatingText_AreYouCurious::
-	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
+	.string "Professor Birch: Ah, {PLAYER}{KUN}!\p"
 	.string "Are you curious about how your\n"
 	.string "POKéDEX is coming along?$"
 
@@ -10,7 +10,7 @@ gBirchDexRatingText_Cancel::
 gBirchDexRatingText_SoYouveSeenAndCaught::
 	.string "Hmhm…\p"
 	.string "So, you've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "and you've caught {STR_VAR_2} Pokémon…$"
 
 gBirchDexRatingText_LessThan10::
 	.string "Go into grassy areas more and look\n"
@@ -76,7 +76,7 @@ gBirchDexRatingText_LessThan140::
 
 gBirchDexRatingText_LessThan150::
 	.string "I had no idea that there were so\n"
-	.string "many POKéMON species in the HOENN\l"
+	.string "many POKéMON species in the Hoenn\l"
 	.string "region.$"
 
 gBirchDexRatingText_LessThan160::
@@ -87,7 +87,7 @@ gBirchDexRatingText_LessThan160::
 
 gBirchDexRatingText_LessThan170::
 	.string "One can get a very good idea about\n"
-	.string "the POKéMON of the HOENN region\l"
+	.string "the POKéMON of the Hoenn region\l"
 	.string "by looking through your POKéDEX.$"
 
 gBirchDexRatingText_LessThan180::
@@ -112,7 +112,7 @@ gBirchDexRatingText_OnANationwideBasis::
 	.string "Hmhm…\n"
 	.string "On a nationwide basis…\p"
 	.string "You've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "and you've caught {STR_VAR_2} Pokémon…$"
 
 @ FRLG
 

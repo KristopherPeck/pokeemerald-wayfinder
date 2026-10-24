@@ -628,7 +628,7 @@ Route111_Text_ToughToKeepWinningUpTheRanks:
 	.string "up through the ranks.\p"
 	.string "I've heard the Pokémon League's\n"
 	.string "Elite Four are far stronger than\l"
-	.string "any gym leader.$"
+	.string "any Gym Leader.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
 	.string "I challenged the Winstrate family,\n"

@@ -317,7 +317,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Oh…\n"
 	.string "I guess I was trying too hard…\p"
 	.string "I… I've only recently become\n"
-	.string "a gym leader.\p"
+	.string "a Gym Leader.\p"
 	.string "I tried too hard to be someone\n"
 	.string "I'm not.\p"
 	.string "I have to do things my natural way. If\n"
@@ -354,7 +354,7 @@ LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "Your power reminds me of someone…\p"
 	.string "Oh! I know! You battle like Norman,\n"
-	.string "the gym leader of Petalburg.$"
+	.string "the Gym Leader of Petalburg.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
 	.string "Lavaridge Town Pokémon Gym$"

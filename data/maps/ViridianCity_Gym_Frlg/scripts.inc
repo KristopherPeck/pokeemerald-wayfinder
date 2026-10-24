@@ -168,7 +168,7 @@ ViridianCity_Gym_Text_YujiDefeat::
 
 ViridianCity_Gym_Text_YujiPostBattle::
 	.string "You'll need power to keep up with\n"
-	.string "our GYM LEADER.$"
+	.string "our Gym Leader.$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
 	.string "Rrrroar!\n"
@@ -189,7 +189,7 @@ ViridianCity_Gym_Text_JasonDefeat::
 
 ViridianCity_Gym_Text_JasonPostBattle::
 	.string "Do you know the identity of our\n"
-	.string "GYM LEADER?$"
+	.string "Gym Leader?$"
 
 ViridianCity_Gym_Text_KiyoIntro::
 	.string "Karate is the ultimate form of\n"
@@ -261,16 +261,16 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
 	.string "Blow me away! GIOVANNI was the\n"
-	.string "GYM LEADER of VIRIDIAN?$"
+	.string "Gym Leader of VIRIDIAN?$"
 
 ViridianCity_Gym_Text_GymStatue::
-	.string "VIRIDIAN POKéMON GYM\n"
+	.string "VIRIDIAN Pokémon Gym\n"
 	.string "LEADER: ?\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-	.string "VIRIDIAN POKéMON GYM\n"
+	.string "VIRIDIAN Pokémon Gym\n"
 	.string "LEADER: GIOVANNI\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

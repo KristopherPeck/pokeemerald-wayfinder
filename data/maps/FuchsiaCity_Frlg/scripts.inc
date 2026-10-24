@@ -181,7 +181,7 @@ FuchsiaCity_Text_SafariZoneOfficeSign::
 	.string "SAFARI ZONE OFFICE$"
 
 FuchsiaCity_Text_GymSign::
-	.string "FUCHSIA CITY POKéMON GYM\n"
+	.string "FUCHSIA CITY Pokémon Gym\n"
 	.string "LEADER: KOGA\l"
 	.string "The Poisonous Ninja Master$"
 
@@ -245,7 +245,7 @@ Text_SubstituteTaught::
 	.string "a KANGASKHAN belly pouch…$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
-	.string "My father is the GYM LEADER of\n"
+	.string "My father is the Gym Leader of\n"
 	.string "this town.\p"
 	.string "I'm training to use POISON POKéMON\n"
 	.string "as well as my father.$"

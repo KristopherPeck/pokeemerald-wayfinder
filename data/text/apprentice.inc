@@ -913,7 +913,7 @@ gText_ApprenticeWhatHeldItem7::
 	.string "I would like to make my {STR_VAR_1}\l"
 	.string "hold an item, too.\p"
 	.string "It would please me if you could decide\n"
-	.string "what would be right for my POKéMON…$"
+	.string "what would be right for my Pokémon…$"
 
 gText_ApprenticeHoldNothing7::
 	.string "In other words… My POKéMON has\n"

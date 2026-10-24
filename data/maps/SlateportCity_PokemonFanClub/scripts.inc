@@ -284,7 +284,7 @@ SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
 	.string "The happy expressions of POKéMON\n"
 	.string "raised with proper care…\p"
 	.string "The kindly eyes of the TRAINER that\n"
-	.string "nurtured and raised the POKéMON…\p"
+	.string "nurtured and raised the Pokémon…\p"
 	.string "The very thought fills my heart to\n"
 	.string "overwhelming with joy.\p"
 	.string "Oh! I do beg your pardon!\n"

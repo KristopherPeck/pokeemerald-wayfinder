@@ -272,7 +272,7 @@ SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
 	.string "Yes? If you're looking for STERN,\n"
 	.string "that would be me.\p"
 	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. STONE of DEVON.\p"
+	.string "from MR. STONE of Devon.\p"
 	.string "Thank you! That's great!\n"
 	.string "We can prepare for our expedition now.$"
 
@@ -320,7 +320,7 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "We are TEAM AQUA,\n"
 	.string "and we love the sea!\p"
 	.string "And I am TEAM AQUA's leader,\n"
-	.string "ARCHIE!\p"
+	.string "Archie!\p"
 	.string "What makes you interfere with us?\p"
 	.string "…No! You can't be!\n"
 	.string "You're not one of TEAM MAGMA?\p"
@@ -349,7 +349,7 @@ SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
 	.string "Anyway, that was a tense situation!\n"
 	.string "Thank you for saving us!\p"
 	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.string "even brought the parts from Devon!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
 	.string "CAPT. STERN: Whoops!\n"
@@ -398,9 +398,9 @@ SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "thousands of tons on a small area.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“MODEL OF HOENN REGION”\p"
+	.string "“MODEL OF Hoenn REGION”\p"
 	.string "It's a miniature diorama of the\n"
-	.string "HOENN region.\p"
+	.string "Hoenn region.\p"
 	.string "Where is LITTLEROOT TOWN on this?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:

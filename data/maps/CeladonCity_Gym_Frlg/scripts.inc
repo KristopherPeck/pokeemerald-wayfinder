@@ -186,7 +186,7 @@ CeladonCity_Gym_Text_TamiaPostBattle::
 
 CeladonCity_Gym_Text_LisaIntro::
 	.string "Oh, hey!\p"
-	.string "We don't like BUG- or FIRE-type\n"
+	.string "We don't like BUG- or Fire-type\n"
 	.string "POKéMON in here!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
@@ -224,13 +224,13 @@ CeladonCity_Gym_Text_MaryPostBattle::
 	.string "Wait until next time!$"
 
 CeladonCity_Gym_Text_GymStatue::
-	.string "CELADON POKéMON GYM\n"
+	.string "CELADON Pokémon Gym\n"
 	.string "LEADER: ERIKA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-	.string "CELADON POKéMON GYM\n"
+	.string "CELADON Pokémon Gym\n"
 	.string "LEADER: ERIKA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

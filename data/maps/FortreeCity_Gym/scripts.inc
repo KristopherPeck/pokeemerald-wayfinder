@@ -247,7 +247,7 @@ FortreeCity_Gym_Text_WinonaDefeat:
 	.string "command Pokémon with more grace\l"
 	.string "than I…\p"
 	.string "In recognition of your prowess,\n"
-	.string "I present to you this gym badge.$"
+	.string "I present to you this Gym Badge.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "{PLAYER} received the Feather Badge\n"

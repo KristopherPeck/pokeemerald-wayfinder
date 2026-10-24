@@ -108,7 +108,7 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "That's a cute {STR_VAR_2}.\p"
 	.string "Seeing it reminds me of a sweet \n"
 	.string "little girl I met while traveling.\p"
-	.string "She was gently grooming POKéMON…\n"
+	.string "She was gently grooming Pokémon…\n"
 	.string "She was a little angel.\p"
 	.string "That little girl's name…\n"
 	.string "I think it was DAISY.$"

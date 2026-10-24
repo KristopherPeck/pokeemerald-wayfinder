@@ -658,7 +658,7 @@ gTVTrainerFanClubSpecialText00::
 	.string "TRAINER FAN CLUB\n"
 	.string "{STR_VAR_1} SPECIAL!\p"
 	.string "This is a special presentation for\n"
-	.string "the fans of {STR_VAR_1} all over HOENN!\p"
+	.string "the fans of {STR_VAR_1} all over Hoenn!\p"
 	.string "Today, we ask the question, “What do\n"
 	.string "people think of {STR_VAR_1}?”\p"
 	.string "We posed the question to {STR_VAR_2}\n"
@@ -934,7 +934,7 @@ gTVPokemonTodayFailedText05::
 
 gTVPokemonTodayFailedText06::
 	.string "BIG SIS: That's enough silliness!\n"
-	.string "Let's look at today's POKéMON…\p"
+	.string "Let's look at today's Pokémon…\p"
 	.string "Huh?\n"
 	.string "We're out of time already?\p"
 	.string "Aww!\n"
@@ -1293,7 +1293,7 @@ TrendWatcher_Text_Outro::
 	.string "Old man: {STR_VAR_1} {STR_VAR_2}!$"
 
 gTVHoennTreasureInvestigatorsText00::
-	.string "HOENN TREASURE INVESTIGATORS!\p"
+	.string "Hoenn TREASURE INVESTIGATORS!\p"
 	.string "Hi, gang!\n"
 	.string "Score any secret items lately?\p"
 	.string "As always, we'll examine eyewitness\n"
@@ -1608,7 +1608,7 @@ gTVPokemonLotteryWinnerFlashReportText00::
 	.string "This has been a live broadcast from\n"
 	.string "the LILYCOVE DEPARTMENT STORE,\l"
 	.string "offering you the greatest selection\l"
-	.string "in all HOENN!$"
+	.string "in all Hoenn!$"
 
 gTVThePokemonBattleSeminarText00::
 	.string "THE POKéMON BATTLE SEMINAR!\p"
@@ -1874,7 +1874,7 @@ TVSpotTheCuties_Text_RibbonEffort::
 
 TVSpotTheCuties_Text_Outro::
 	.string "…Sigh…\p"
-	.string "RIBBONS and POKéMON…\n"
+	.string "RIBBONS and Pokémon…\n"
 	.string "They go so wonderfully together!\p"
 	.string "Before I swoon,\n"
 	.string "I bid you all farewell!$"
@@ -2005,7 +2005,7 @@ gTVPokemonNewsBattleFrontierText18::
 	.string "That's the news on POKéMON NEWS!$"
 
 gTVWhatsNo1InHoennTodayText00::
-	.string "WHAT'S NO. 1 IN HOENN TODAY?\n"
+	.string "WHAT'S NO. 1 IN Hoenn TODAY?\n"
 	.string "Yes, it's that time again!\p"
 	.string "Hello, viewers! Are you giving your\n"
 	.string "best at whatever you do?\p"

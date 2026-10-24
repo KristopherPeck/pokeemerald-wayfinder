@@ -443,7 +443,7 @@ RusturfTunnel_Text_GruntTakePackage:
 	.string "The BOSS told me this would be a\n"
 	.string "slick-and-easy job to pull.\p"
 	.string "All I had to do was steal some package\n"
-	.string "from DEVON.\p"
+	.string "from Devon.\p"
 	.string "Tch!\n"
 	.string "You want it back that badly, take it!$"
 
@@ -453,7 +453,7 @@ RusturfTunnel_Text_PeekoGladToSeeYouSafe:
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "PEEKO owes her life to you!\p"
-	.string "They call me MR. BRINEY.\n"
+	.string "They call me Mr. Briney.\n"
 	.string "And, you are?\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
@@ -473,14 +473,14 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "Is the bedrock too hard?\p"
 	.string "My beloved awaits me in VERDANTURF\n"
 	.string "TOWN just beyond here…\p"
-	.string "If RUSTBORO and VERDANTURF were\n"
+	.string "If Rustboro and VERDANTURF were\n"
 	.string "joined by this tunnel, I could visit\l"
 	.string "her every day…\p"
 	.string "But this…\n"
 	.string "What am I to do?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
-	.string "To get from RUSTBORO to VERDANTURF,\n"
+	.string "To get from Rustboro to VERDANTURF,\n"
 	.string "you need to go to DEWFORD, then pass\l"
 	.string "through SLATEPORT and MAUVILLE…$"
 
@@ -517,7 +517,7 @@ RusturfTunnel_Text_MikeIntro:
 	.string "the mountains a mountain POKéMON?$"
 
 RusturfTunnel_Text_MikeDefeat:
-	.string "My POKéMON…\n"
+	.string "My Pokémon…\n"
 	.string "Ran out of power…$"
 
 RusturfTunnel_Text_MikePostBattle:

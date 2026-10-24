@@ -82,7 +82,7 @@
     },
     {
       "id": "MAPSEC_RUSTBORO_CITY",
-      "name": "RUSTBORO CITY",
+      "name": "Rustboro CITY",
       "x": 0,
       "y": 5,
       "width": 1,
@@ -114,7 +114,7 @@
     },
     {
       "id": "MAPSEC_SOOTOPOLIS_CITY",
-      "name": "SOOTOPOLIS CITY",
+      "name": "Sootopolis CITY",
       "x": 21,
       "y": 7,
       "width": 1,

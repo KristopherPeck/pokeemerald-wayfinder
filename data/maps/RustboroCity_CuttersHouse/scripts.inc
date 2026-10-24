@@ -24,7 +24,7 @@ RustboroCity_CuttersHouse_EventScript_Lass::
 RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse:
 	.string "That determined expression…\n"
 	.string "That limber way you move…\l"
-	.string "And your well-trained POKéMON…\p"
+	.string "And your well-trained Pokémon…\p"
 	.string "You're obviously a skilled TRAINER!\p"
 	.string "No, wait, don't say a word.\n"
 	.string "I can tell just by looking at you.\p"
@@ -46,7 +46,7 @@ RustboroCity_CuttersHouse_Text_ExplainCut:
 
 RustboroCity_CuttersHouse_Text_DadHelpedClearLandOfTrees:
 	.string "When they were expanding the city of\n"
-	.string "RUSTBORO, my dad helped out.\p"
+	.string "Rustboro, my dad helped out.\p"
 	.string "He made his POKéMON use CUT to clear\n"
 	.string "the land of trees.$"
 

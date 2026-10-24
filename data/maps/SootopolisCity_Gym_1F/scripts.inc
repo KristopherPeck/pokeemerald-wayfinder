@@ -178,7 +178,7 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "Yo! How's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "SOOTOPOLIS's GYM LEADER JUAN is\n"
+	.string "Sootopolis's Gym Leader JUAN is\n"
 	.string "a master of WATER-type POKéMON.\p"
 	.string "And, to get to JUAN, an icy floor\n"
 	.string "will hamper your progress…\p"
@@ -189,7 +189,7 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
 	.string "Yow! You've beaten even JUAN, who\n"
-	.string "was supposedly the best in all HOENN!\p"
+	.string "was supposedly the best in all Hoenn!\p"
 	.string "Okay! Check out your TRAINER CARD.\p"
 	.string "If you've gotten all the BADGES, you're\n"
 	.string "set for the POKéMON LEAGUE challenge!$"
@@ -201,7 +201,7 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "It was I who taught WALLACE everything\n"
 	.string "there is to know about POKéMON.\p"
 	.string "Once, I had given up my position as\n"
-	.string "the GYM LEADER.\p"
+	.string "the Gym Leader.\p"
 	.string "In my place, I had entrusted WALLACE\n"
 	.string "with the GYM.\p"
 	.string "However, a compelling reason arose for\n"
@@ -254,31 +254,31 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "… … … … … …$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "Registered GYM LEADER JUAN\n"
+	.string "Registered Gym Leader JUAN\n"
 	.string "in the POKéNAV.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
 	.string "The TRAINERS who have gathered all\n"
-	.string "the GYM BADGES of HOENN should make\l"
+	.string "the GYM BADGES of Hoenn should make\l"
 	.string "way to the ultimate destination.\p"
 	.string "The POKéMON LEAGUE.\p"
 	.string "Travel to the easternmost reaches\n"
-	.string "of HOENN, to the island EVER GRANDE.\p"
+	.string "of Hoenn, to the island EVER GRANDE.\p"
 	.string "There, you shall find the POKéMON\n"
 	.string "LEAGUE.$"
 
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
 	.string "There remains but one BADGE to\n"
-	.string "obtain in HOENN.\p"
+	.string "obtain in Hoenn.\p"
 	.string "If you wish to challenge the POKéMON\n"
 	.string "LEAGUE, you must obtain the last\l"
 	.string "BADGE from the GYM in FORTREE.$"
 
 SootopolisCity_Gym_1F_Text_GymStatue:
-	.string "SOOTOPOLIS CITY POKéMON GYM$"
+	.string "Sootopolis CITY Pokémon Gym$"
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified:
-	.string "SOOTOPOLIS CITY POKéMON GYM\p"
+	.string "Sootopolis CITY Pokémon Gym\p"
 	.string "JUAN'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 

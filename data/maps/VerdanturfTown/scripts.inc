@@ -92,18 +92,18 @@ VerdanturfTown_Text_MakeBattleTentDebut:
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "Did you see the cave next to the\n"
-	.string "POKéMON MART?\p"
+	.string "Poké Mart?\p"
 	.string "There's a guy in there who's trying to\n"
 	.string "bust up boulders so he can bust out\l"
 	.string "through to the other side.\p"
 	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "It'll make it easy to visit Rustboro.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
+	.string "That cave next to the Poké Mart\n"
 	.string "is now a tunnel to the other side.\p"
 	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "new Devon products in Rustboro now.$"
 
 VerdanturfTown_Text_TownSign:
 	.string "VERDANTURF TOWN\p"
@@ -119,7 +119,7 @@ VerdanturfTown_Text_BattleTentSign:
 
 VerdanturfTown_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
+	.string "“Linking Rustboro and VERDANTURF\p"
 	.string "“The tunnel project has been\n"
 	.string "canceled.”$"
 

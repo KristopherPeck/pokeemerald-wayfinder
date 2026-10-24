@@ -96,7 +96,7 @@ SixIsland_WaterPath_Text_MiaDefeat::
 
 SixIsland_WaterPath_Text_MiaPostBattle::
 	.string "MIA: Ohh…\n"
-	.string "I'm sorry, my POKéMON…$"
+	.string "I'm sorry, my Pokémon…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
 	.string "MIA: Oh, you only have one\n"

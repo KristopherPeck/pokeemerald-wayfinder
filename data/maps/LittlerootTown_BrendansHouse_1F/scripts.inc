@@ -342,7 +342,7 @@ PlayersHouse_1F_Text_TakeCareHoney:
 	.string "Mom: Take care, honey!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "Mom: Oh? Did Dad give you that badge?\p"
+	.string "Mom: Oh? Did Dad give you that Badge?\p"
 	.string "Then here's something from your Mom!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:

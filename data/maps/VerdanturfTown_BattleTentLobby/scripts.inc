@@ -343,7 +343,7 @@ VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
 	.string "if it gets angry!$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
-	.string "My feelings toward my POKéMON…\n"
+	.string "My feelings toward my Pokémon…\n"
 	.string "The attraction runs deep…\p"
 	.string "Oh, hi, you didn't see that, did you?\n"
 	.string "Well, it doesn't matter.\p"
@@ -351,7 +351,7 @@ VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
 	.string "your POKéMON?$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
-	.string "My feelings toward my POKéMON…\n"
+	.string "My feelings toward my Pokémon…\n"
 	.string "I'm sure the attraction is mutual!\p"
 	.string "They battle exactly the way I want\n"
 	.string "them to!$"

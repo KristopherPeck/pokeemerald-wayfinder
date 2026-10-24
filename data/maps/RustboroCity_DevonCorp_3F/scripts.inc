@@ -197,7 +197,7 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay::
 
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
 	.string "I'm MR. STONE, the PRESIDENT of\n"
-	.string "the DEVON CORPORATION.\p"
+	.string "the Devon Corporation.\p"
 	.string "I'd just got word about you!\p"
 	.string "You saved our staff not just once,\n"
 	.string "but twice!\p"
@@ -208,7 +208,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
 	.string "Well, on the way, could you stop off in\n"
 	.string "DEWFORD TOWN?\p"
 	.string "I was hoping that you'd deliver a\n"
-	.string "LETTER to STEVEN in DEWFORD.$"
+	.string "LETTER to Steven in DEWFORD.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
 	.string "MR. STONE: Now, you should know that\n"
@@ -226,7 +226,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
 	.string "for short.\p"
 	.string "It's an indispensable tool for any\n"
 	.string "TRAINER on an adventure.\p"
-	.string "It has a map of the HOENN region.\p"
+	.string "It has a map of the Hoenn region.\p"
 	.string "You can check the locations of\n"
 	.string "DEWFORD and SLATEPORT easily!\p"
 	.string "By the way, I've heard that sinister\n"
@@ -266,7 +266,7 @@ RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "TRAINERS in the POKéMON LEAGUE?$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
-	.string "This is the DEVON CORPORATION's\n"
+	.string "This is the Devon Corporation's\n"
 	.string "third floor.\p"
 	.string "Our PRESIDENT's OFFICE is on\n"
 	.string "this floor.\p"
@@ -296,7 +296,7 @@ RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard:
 	.string "you should go see CAPT. STERN.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular:
-	.string "DEVON's new products, the REPEAT BALL\n"
+	.string "Devon's new products, the REPEAT BALL\n"
 	.string "and TIMER BALL, have become hugely\l"
 	.string "popular among TRAINERS.$"
 

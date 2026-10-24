@@ -173,7 +173,7 @@ SaffronCity_Gym_Text_StacyDefeat::
 SaffronCity_Gym_Text_StacyPostBattle::
 	.string "I have much to learn still…\p"
 	.string "I must master PSYCHIC and teach it\n"
-	.string "to my POKéMON…$"
+	.string "to my Pokémon…$"
 
 SaffronCity_Gym_Text_TyronIntro::
 	.string "You understand, don't you?\p"
@@ -216,7 +216,7 @@ SaffronCity_Gym_Text_CameronPostBattle::
 	.string "decided to have just one GYM.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-	.string "SAFFRON POKéMON GYM is famous for\n"
+	.string "SAFFRON Pokémon Gym is famous for\n"
 	.string "training psychics.\p"
 	.string "You want to see SABRINA, don't\n"
 	.string "you? I can tell!$"
@@ -244,13 +244,13 @@ SaffronCity_Gym_Text_GymGuyPostVictory::
 	.string "at the slots!$"
 
 SaffronCity_Gym_Text_GymStatue::
-	.string "SAFFRON POKéMON GYM\n"
+	.string "SAFFRON Pokémon Gym\n"
 	.string "LEADER: SABRINA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-	.string "SAFFRON POKéMON GYM\n"
+	.string "SAFFRON Pokémon Gym\n"
 	.string "LEADER: SABRINA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

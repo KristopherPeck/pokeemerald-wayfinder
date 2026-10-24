@@ -715,7 +715,7 @@ PetalburgCity_Text_ThisIsPetalburgGym:
 
 PetalburgCity_Text_ThisIsGymSign:
 	.string "This is the Gym's sign. Look for it\n"
-	.string "whenever you're looking for a gym.$"
+	.string "whenever you're looking for a Gym.$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "My face is reflected in the water.\p"

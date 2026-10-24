@@ -18,7 +18,7 @@ SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
 	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
+	.string "have the strongest Pokémon…\p"
 	.string "It doesn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 

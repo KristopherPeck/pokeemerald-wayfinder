@@ -133,7 +133,7 @@ ViridianCity_School_Text_NotebookFourthPage::
 	.string "The ultimate goal for all POKéMON\n"
 	.string "TRAINERS is simple.\p"
 	.string "It is to defeat the top eight\n"
-	.string "POKéMON GYM LEADERS.\p"
+	.string "Pokémon Gym LEADERS.\p"
 	.string "Do so to earn the right to face…\p"
 	.string "The ELITE FOUR of the POKéMON\n"
 	.string "LEAGUE!$"

@@ -96,7 +96,7 @@ Route12_Text_ChipDefeat::
 
 Route12_Text_ChipPostBattle::
 	.string "With a better ROD, I could catch\n"
-	.string "better POKéMON…$"
+	.string "better Pokémon…$"
 
 Route12_Text_JustinIntro::
 	.string "I'm searching for a MOON STONE.\n"

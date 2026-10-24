@@ -234,13 +234,13 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
 	.string "even now!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-	.string "FUCHSIA POKéMON GYM\n"
+	.string "FUCHSIA Pokémon Gym\n"
 	.string "LEADER: KOGA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-	.string "FUCHSIA POKéMON GYM\n"
+	.string "FUCHSIA Pokémon Gym\n"
 	.string "LEADER: KOGA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

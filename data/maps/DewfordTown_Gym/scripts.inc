@@ -325,7 +325,7 @@ DewfordTown_Gym_Text_JocelynDefeat:
 DewfordTown_Gym_Text_JocelynPostBattle:
 	.string "I'm not going to waste this loss.\n"
 	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a gym leader…\p"
+	.string "One day I'll become a Gym Leader…\p"
 	.string "No, I'll become the Pokémon League\n"
 	.string "Champion!$"
 
@@ -377,7 +377,7 @@ DewfordTown_Gym_Text_CristianDefeat:
 
 DewfordTown_Gym_Text_CristianPostBattle:
 	.string "You win!\n"
-	.string "Go after that badge!$"
+	.string "Go after that Badge!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
 	.string "I'm Brawly!\n"

@@ -1262,7 +1262,7 @@ PetalburgCity_Gym_Text_NormanIntro:
 	.string "a real battle with my own child.\p"
 	.string "But, a battle is a battle!\p"
 	.string "I will do everything in my power as\n"
-	.string "a gym leader to win.\p"
+	.string "a Gym Leader to win.\p"
 	.string "{PLAYER}, you'd better give it your\n"
 	.string "best shot, too!$"
 
@@ -1279,7 +1279,7 @@ PetalburgCity_Gym_Text_ReceivedBalanceBadge:
 	.string "from Dad!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
-	.string "Dad: With that badge, the Defense\n"
+	.string "Dad: With that Badge, the Defense\n"
 	.string "of all your Pokémon will increase.\p"
 	.string "Pokémon that know the HM move Surf\n"
 	.string "will be able to travel over water.\p"
@@ -1369,7 +1369,7 @@ PetalburgCity_Gym_Text_RandallPostBadge:
 	.string "may lose to, you never shirk from\l"
 	.string "training yourself and your Pokémon.\p"
 	.string "That's what I think being a\n"
-	.string "gym leader is all about.$"
+	.string "Gym Leader is all about.$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
 	.string "This is the Confusion Room.\p"

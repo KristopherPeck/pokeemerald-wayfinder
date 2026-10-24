@@ -349,7 +349,7 @@ MauvilleCity_Gym_Text_WattsonDefeat:
 	.string "Wahahahah!\n"
 	.string "Fine, I lost!\p"
 	.string "You ended up giving me a thrill!\n"
-	.string "Take this badge!$"
+	.string "Take this Gym Badge!$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
 	.string "{PLAYER} received the Dynamo Badge\n"
