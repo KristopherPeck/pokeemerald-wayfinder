@@ -80,7 +80,7 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
 	.string "Hello and welcome to the Devon\n"
-	.string "CORPORATION.\p"
+	.string "Corporation.\p"
 	.string "We're proud producers of items and\n"
 	.string "medicine that enhance your life.$"
 
@@ -89,7 +89,7 @@ RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
 	.string "got robbed of an important parcel.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
+	.string "Hey, those Running Shoes!\n"
 	.string "They're one of our products!\p"
 	.string "It makes me happy when I see someone\n"
 	.string "using something we made.$"
@@ -103,7 +103,7 @@ RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
 	.string "It sounds like they've recovered\n"
-	.string "the ripped-off Devon GOODS.$"
+	.string "the ripped-off Devon Goods.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
 	.string "I'm sorry, only authorized people\n"
@@ -128,7 +128,7 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "filings in the sand.\p"
 	.string "“From that humble start as a producer\n"
 	.string "of raw materials, Devon developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
+	.string "“Devon is now a manufacturer of a wide\n"
 	.string "range of industrial products.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
@@ -139,6 +139,6 @@ RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Devon now markets sundries and\l"
 	.string "pharmaceuticals for better lifestyles.\p"
 	.string "“Recently, Devon has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.string "tools for Pokémon trainers, including\l"
+	.string "Poké Balls and PokéNav systems.”$"
 

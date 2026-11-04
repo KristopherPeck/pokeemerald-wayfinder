@@ -1961,7 +1961,7 @@ const u16 gUsePokeblockNatureWin_Pal[] = INCGFX_U16("graphics/pokeblock/use_scre
 
 #include "data/graphics/slot_machine.h"
 
-// trainer card
+// Trainer Card
 
 const u16 gHoennTrainerCardGreen_Pal[] = INCGFX_U16("graphics/trainer_card/green.pal", ".gbapal");
 const u32 gHoennTrainerCard_Gfx[] = INCGFX_U32("graphics/trainer_card/tiles.png", ".4bpp.smol");

@@ -3797,7 +3797,7 @@ static u8 Task_GetInfoCardInput(u8 taskId)
         // Scrolling right from a trainer info card shows their match progression
         else if (JOY_NEW(DPAD_RIGHT))
         {
-            // Can only scroll right from a trainer card until the round they were eliminated
+            // Can only scroll right from a Trainer Card until the round they were eliminated
             if (DOME_TRAINERS[tourneyId].isEliminated && sInfoCard->pos - 1 < DOME_TRAINERS[tourneyId].eliminatedAt)
             {
                 sInfoCard->pos++;

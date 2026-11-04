@@ -1054,7 +1054,7 @@ static void Task_HandleFrontierPassInput(u8 taskId)
 #define tScaleSpeedX data[3]
 #define tScaleSpeedY data[4]
 
-// Zoom in/out for the Frontier map or the trainer card
+// Zoom in/out for the Frontier map or the Trainer Card
 static void Task_PassAreaZoom(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
@@ -1121,7 +1121,7 @@ static void Task_PassAreaZoom(u8 taskId)
 
         if (!tZoomOut)
         {
-            // Zoomed in and faded out, switch to map or trainer card
+            // Zoomed in and faded out, switch to map or Trainer Card
             DestroyTask(taskId);
             SetMainCallback2(CB2_ShowFrontierPassFeature);
         }
