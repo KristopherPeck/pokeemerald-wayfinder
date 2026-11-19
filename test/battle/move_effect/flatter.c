@@ -36,8 +36,8 @@ SINGLE_BATTLE_TEST("Flatter on a foe with Own Tempo prevents confusion, changes 
     }
 }
 
-TO_DO_BATTLE_TEST("Flatter raises the target's Sp. Atk even if they're already confused")
-TO_DO_BATTLE_TEST("Flatter raises the target's Sp. Atk even when protected by Safeguard")
-TO_DO_BATTLE_TEST("Flatter raises the target's Sp. Atk even when protected Own Tempo")
-TO_DO_BATTLE_TEST("Flatter confuses the target even when they have their Sp. Atk maxed")
-TO_DO_BATTLE_TEST("Flatter confuses the target even when at -6 Sp. Atk and has Contrary")
+TO_DO_BATTLE_TEST("Flatter raises the target's SP. ATK even if they're already confused")
+TO_DO_BATTLE_TEST("Flatter raises the target's SP. ATK even when protected by Safeguard")
+TO_DO_BATTLE_TEST("Flatter raises the target's SP. ATK even when protected Own Tempo")
+TO_DO_BATTLE_TEST("Flatter confuses the target even when they have their SP. ATK maxed")
+TO_DO_BATTLE_TEST("Flatter confuses the target even when at -6 SP. ATK and has Contrary")

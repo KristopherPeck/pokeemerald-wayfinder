@@ -8,7 +8,7 @@ ASSUMPTIONS
     ASSUME(GetMoveFixedHPDamage(MOVE_DRAGON_RAGE) == 40);
 }
 
-SINGLE_BATTLE_TEST("Petaya Berry raises the holder's Sp. Atk by one stage when HP drops to 1/4 or below")
+SINGLE_BATTLE_TEST("Petaya Berry raises the holder's SP. ATK by one stage when HP drops to 1/4 or below")
 {
     enum Move move;
 
@@ -25,11 +25,11 @@ SINGLE_BATTLE_TEST("Petaya Berry raises the holder's Sp. Atk by one stage when H
         if (move == MOVE_SCRATCH) {
             NONE_OF {
                 ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_HELD_ITEM_BERRY, player);
-                MESSAGE("The Petaya Berry boosted Wobbuffet's Sp. Atk!");
+                MESSAGE("The Petaya Berry boosted Wobbuffet's SP. ATK!");
             }
         } else {
             ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_HELD_ITEM_BERRY, player);
-            MESSAGE("The Petaya Berry boosted Wobbuffet's Sp. Atk!");
+            MESSAGE("The Petaya Berry boosted Wobbuffet's SP. ATK!");
         }
     } THEN {
         if (move == MOVE_DRAGON_RAGE)
@@ -37,7 +37,7 @@ SINGLE_BATTLE_TEST("Petaya Berry raises the holder's Sp. Atk by one stage when H
     }
 }
 
-SINGLE_BATTLE_TEST("Petaya Berry raises Sp. Atk by one stage when HP drops to 1/2 or below if holder has Gluttony")
+SINGLE_BATTLE_TEST("Petaya Berry raises SP. ATK by one stage when HP drops to 1/2 or below if holder has Gluttony")
 {
     GIVEN {
         PLAYER(SPECIES_BELLSPROUT) { MaxHP(80); HP(80); Ability(ABILITY_GLUTTONY); Item(ITEM_PETAYA_BERRY); }
@@ -47,13 +47,13 @@ SINGLE_BATTLE_TEST("Petaya Berry raises Sp. Atk by one stage when HP drops to 1/
     } SCENE {
         ANIMATION(ANIM_TYPE_MOVE, MOVE_DRAGON_RAGE, opponent);
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_HELD_ITEM_BERRY, player);
-        MESSAGE("The Petaya Berry boosted Bellsprout's Sp. Atk!");
+        MESSAGE("The Petaya Berry boosted Bellsprout's SP. ATK!");
     } THEN {
         EXPECT_EQ(player->statStages[STAT_SPATK], DEFAULT_STAT_STAGE + 1);
     }
 }
 
-SINGLE_BATTLE_TEST("Petaya Berry raises Sp. Atk by one stage when HP drops to 1/4 or below if holder has Ripen")
+SINGLE_BATTLE_TEST("Petaya Berry raises SP. ATK by one stage when HP drops to 1/4 or below if holder has Ripen")
 {
     GIVEN {
         PLAYER(SPECIES_APPLIN) { MaxHP(160); HP(80); Ability(ABILITY_RIPEN); Item(ITEM_PETAYA_BERRY); }
@@ -63,7 +63,7 @@ SINGLE_BATTLE_TEST("Petaya Berry raises Sp. Atk by one stage when HP drops to 1/
     } SCENE {
         ANIMATION(ANIM_TYPE_MOVE, MOVE_DRAGON_RAGE, opponent);
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_HELD_ITEM_BERRY, player);
-        MESSAGE("The Petaya Berry sharply boosted Applin's Sp. Atk!");
+        MESSAGE("The Petaya Berry sharply boosted Applin's SP. ATK!");
     } THEN {
         EXPECT_EQ(player->statStages[STAT_SPATK], DEFAULT_STAT_STAGE + 2);
     }

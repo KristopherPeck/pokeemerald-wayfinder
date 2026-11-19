@@ -17,7 +17,7 @@ ASSUMPTIONS
     ASSUME(GetMovePower(MOVE_FUTURE_SIGHT) > 0);
 }
 
-SINGLE_BATTLE_TEST("Future Sight uses Sp. Atk stat of the original user without modifiers")
+SINGLE_BATTLE_TEST("Future Sight uses SP. ATK stat of the original user without modifiers")
 {
     enum Item item;
     s16 seedFlareDmg;

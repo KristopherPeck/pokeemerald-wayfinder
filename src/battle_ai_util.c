@@ -4789,7 +4789,7 @@ static enum AIScore IncreaseStatUpScoreInternal(enum BattlerId battlerAtk, enum 
     case STAT_SPDEF:
     {
         bool32 spDefRelevant = (HasMoveWithCategory(battlerDef, DAMAGE_CATEGORY_SPECIAL) || !HasMoveWithCategory(battlerDef, DAMAGE_CATEGORY_PHYSICAL));
-        // Wonder Room makes Body Press use Sp. Def stages for its damage calculation.
+        // Wonder Room makes Body Press use SP. DEF stages for its damage calculation.
         bool32 bodyPressCheck = (HasMoveWithEffect(battlerAtk, EFFECT_BODY_PRESS) && (gFieldStatuses & STATUS_FIELD_WONDER_ROOM) && shouldSetUp);
 
         if (spDefRelevant || bodyPressCheck)

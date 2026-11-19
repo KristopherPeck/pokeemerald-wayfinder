@@ -106,7 +106,7 @@ SINGLE_BATTLE_TEST("Stellar-type Tera Blast lowers both offensive stats")
         ANIMATION(ANIM_TYPE_MOVE, MOVE_TERA_BLAST, player);
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, player);
         MESSAGE("Wobbuffet's Attack fell!");
-        MESSAGE("Wobbuffet's Sp. Atk fell!");
+        MESSAGE("Wobbuffet's SP. ATK fell!");
     }
 }
 

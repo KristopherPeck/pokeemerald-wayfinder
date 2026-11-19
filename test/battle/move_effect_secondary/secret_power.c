@@ -53,7 +53,7 @@ SINGLE_BATTLE_TEST("Secret Power lowers Speed in Psychic Terrain")
     }
 }
 
-SINGLE_BATTLE_TEST("Secret Power lowers Sp. Atk in Misty Terrain")
+SINGLE_BATTLE_TEST("Secret Power lowers SP. ATK in Misty Terrain")
 {
     GIVEN {
         ASSUME(GetMoveEffect(MOVE_MISTY_TERRAIN) == EFFECT_MISTY_TERRAIN);

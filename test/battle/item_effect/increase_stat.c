@@ -51,7 +51,7 @@ SINGLE_BATTLE_TEST("X Defense sharply raises battler's Defense stat", s16 damage
     }
 }
 
-SINGLE_BATTLE_TEST("X Sp. Atk sharply raises battler's Sp. Attack stat", s16 damage)
+SINGLE_BATTLE_TEST("X SP. ATK sharply raises battler's Sp. Attack stat", s16 damage)
 {
     u16 useItem;
     PARAMETRIZE { useItem = FALSE; }
@@ -75,7 +75,7 @@ SINGLE_BATTLE_TEST("X Sp. Atk sharply raises battler's Sp. Attack stat", s16 dam
     }
 }
 
-SINGLE_BATTLE_TEST("X Sp. Def sharply raises battler's Sp. Defense stat", s16 damage)
+SINGLE_BATTLE_TEST("X SP. DEF sharply raises battler's Sp. Defense stat", s16 damage)
 {
     u16 useItem;
     PARAMETRIZE { useItem = FALSE; }

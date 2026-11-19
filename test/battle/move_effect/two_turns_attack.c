@@ -433,7 +433,7 @@ SINGLE_BATTLE_TEST("Electro Shot needs a charging Turn")
         ANIMATION(ANIM_TYPE_MOVE, MOVE_ELECTRO_SHOT, player);
         MESSAGE("Wobbuffet absorbed electricity!");
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, player);
-        MESSAGE("Wobbuffet's Sp. Atk rose!");
+        MESSAGE("Wobbuffet's SP. ATK rose!");
         // Attack turn
         MESSAGE("Wobbuffet used Electro Shot!");
         HP_BAR(opponent);
@@ -455,7 +455,7 @@ SINGLE_BATTLE_TEST("Electro Shot doesn't need to charge when it's raining")
         ANIMATION(ANIM_TYPE_MOVE, MOVE_ELECTRO_SHOT, player);
         MESSAGE("Wobbuffet absorbed electricity!");
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, player);
-        MESSAGE("Wobbuffet's Sp. Atk rose!");
+        MESSAGE("Wobbuffet's SP. ATK rose!");
         NONE_OF {
             MESSAGE("Wobbuffet used Electro Shot!");
         }
@@ -494,7 +494,7 @@ SINGLE_BATTLE_TEST("Electro Shot doesn't need to charge with Power Herb")
         ANIMATION(ANIM_TYPE_MOVE, MOVE_ELECTRO_SHOT, player);
         MESSAGE("Wobbuffet absorbed electricity!");
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, player);
-        MESSAGE("Wobbuffet's Sp. Atk rose!");
+        MESSAGE("Wobbuffet's SP. ATK rose!");
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_HELD_ITEM_EFFECT, player);
         MESSAGE("Wobbuffet became fully charged due to its Power Herb!");
         NONE_OF {

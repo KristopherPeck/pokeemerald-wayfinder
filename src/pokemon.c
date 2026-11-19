@@ -3520,7 +3520,7 @@ bool8 PokemonUseItemEffects(struct Pokemon *mon, enum Item item, u8 partyIndex, 
         // Now handled in item battle scripts.
         case 1:
             break;
-        // Formerly used by the item effects of the X Sp. Atk and the X Accuracy
+        // Formerly used by the item effects of the X SP. ATK and the X Accuracy
         case 2:
             break;
 

@@ -6,7 +6,7 @@ ASSUMPTIONS
     ASSUME(GetMoveEffect(MOVE_TAKE_HEART) == EFFECT_TAKE_HEART);
 }
 
-SINGLE_BATTLE_TEST("Take Heart increases Sp. Atk and Sp. Def by one stage")
+SINGLE_BATTLE_TEST("Take Heart increases SP. ATK and SP. DEF by one stage")
 {
     GIVEN {
         PLAYER(SPECIES_WOBBUFFET);

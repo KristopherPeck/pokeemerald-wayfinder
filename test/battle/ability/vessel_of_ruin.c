@@ -7,7 +7,7 @@ ASSUMPTIONS
     ASSUME(GetMoveEffect(MOVE_ENTRAINMENT) == EFFECT_ENTRAINMENT);
 }
 
-SINGLE_BATTLE_TEST("Vessel of Ruin reduces Sp. Atk if opposing mon's ability doesn't match")
+SINGLE_BATTLE_TEST("Vessel of Ruin reduces SP. ATK if opposing mon's ability doesn't match")
 {
     s16 damage[2];
 
@@ -19,7 +19,7 @@ SINGLE_BATTLE_TEST("Vessel of Ruin reduces Sp. Atk if opposing mon's ability doe
         TURN { MOVE(opponent, MOVE_WATER_GUN); }
     } SCENE {
         ABILITY_POPUP(player, ABILITY_VESSEL_OF_RUIN);
-        MESSAGE("Ting-Lu's Vessel of Ruin weakened the Sp. Atk of all surrounding Pokémon!");
+        MESSAGE("Ting-Lu's Vessel of Ruin weakened the SP. ATK of all surrounding Pokémon!");
         ANIMATION(ANIM_TYPE_MOVE, MOVE_WATER_GUN, opponent);
         HP_BAR(player, captureDamage: &damage[0]);
         ANIMATION(ANIM_TYPE_MOVE, MOVE_ENTRAINMENT, player);
@@ -48,7 +48,7 @@ SINGLE_BATTLE_TEST("Vessel of Ruin's message displays correctly after all battle
         MESSAGE("Go! Ting-Lu!");
         MESSAGE("2 sent out Wobbuffet!");
         ABILITY_POPUP(player, ABILITY_VESSEL_OF_RUIN);
-        MESSAGE("Ting-Lu's Vessel of Ruin weakened the Sp. Atk of all surrounding Pokémon!");
+        MESSAGE("Ting-Lu's Vessel of Ruin weakened the SP. ATK of all surrounding Pokémon!");
     }
 }
 
@@ -70,11 +70,11 @@ SINGLE_BATTLE_TEST("Vessel of Ruin's message displays correctly after all battle
         SEND_IN_MESSAGE("Wobbuffet");
         MESSAGE("2 sent out Ting-Lu!");
         ABILITY_POPUP(opponent, ABILITY_VESSEL_OF_RUIN);
-        MESSAGE("The opposing Ting-Lu's Vessel of Ruin weakened the Sp. Atk of all surrounding Pokémon!");
+        MESSAGE("The opposing Ting-Lu's Vessel of Ruin weakened the SP. ATK of all surrounding Pokémon!");
     }
 }
 
-DOUBLE_BATTLE_TEST("Vessel of Ruin does not reduce Sp. Atk if Neutralizing Gas is on the field")
+DOUBLE_BATTLE_TEST("Vessel of Ruin does not reduce SP. ATK if Neutralizing Gas is on the field")
 {
     s16 damage[2];
 
@@ -115,7 +115,7 @@ SINGLE_BATTLE_TEST("Vessel of Ruin is still active if removed by Mold Breaker + 
         TURN { MOVE(opponent, MOVE_WATER_GUN); }
     } SCENE {
         ABILITY_POPUP(player, ABILITY_VESSEL_OF_RUIN);
-        MESSAGE("Ting-Lu's Vessel of Ruin weakened the Sp. Atk of all surrounding Pokémon!");
+        MESSAGE("Ting-Lu's Vessel of Ruin weakened the SP. ATK of all surrounding Pokémon!");
         ANIMATION(ANIM_TYPE_MOVE, MOVE_WATER_GUN, opponent);
         HP_BAR(player, captureDamage: &damage[0]);
         ANIMATION(ANIM_TYPE_MOVE, MOVE_ENTRAINMENT, opponent);

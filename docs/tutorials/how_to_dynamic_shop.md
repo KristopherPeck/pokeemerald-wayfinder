@@ -153,7 +153,7 @@ We want to allow the player to purchase the Light Ball, but only after they have
          .description = COMPOUND_STRING(
                  "A hold item that\n"
                  "raises the Atk and\n"
-                 "Sp. Atk of Pikachu."),
+                 "SP. ATK of Pikachu."),
          .pocket = POCKET_ITEMS,
          .sortType = ITEM_TYPE_HELD_ITEM,
          .type = ITEM_USE_BAG_MENU,

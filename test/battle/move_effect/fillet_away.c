@@ -19,7 +19,7 @@ SINGLE_BATTLE_TEST("Fillet Away cuts the user's HP in half")
     }
 }
 
-SINGLE_BATTLE_TEST("Fillet Away sharply raises Attack, Sp. Atk, and Speed")
+SINGLE_BATTLE_TEST("Fillet Away sharply raises Attack, SP. ATK, and Speed")
 {
     GIVEN {
         PLAYER(SPECIES_WOBBUFFET);
@@ -30,7 +30,7 @@ SINGLE_BATTLE_TEST("Fillet Away sharply raises Attack, Sp. Atk, and Speed")
         ANIMATION(ANIM_TYPE_MOVE, MOVE_FILLET_AWAY, player);
         ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, player);
         MESSAGE("Wobbuffet's Attack rose sharply!");
-        MESSAGE("Wobbuffet's Sp. Atk rose sharply!");
+        MESSAGE("Wobbuffet's SP. ATK rose sharply!");
         MESSAGE("Wobbuffet's Speed rose sharply!");
         HP_BAR(player);
     } THEN {
@@ -67,11 +67,11 @@ SINGLE_BATTLE_TEST("Fillet Away's HP cost doesn't trigger effects that trigger o
     } SCENE {
         ANIMATION(ANIM_TYPE_MOVE, MOVE_FILLET_AWAY, player);
         MESSAGE("Wobbuffet's Attack rose sharply!");
-        MESSAGE("Wobbuffet's Sp. Atk rose sharply!");
+        MESSAGE("Wobbuffet's SP. ATK rose sharply!");
         MESSAGE("Wobbuffet's Speed rose sharply!");
         NOT MESSAGE("Wobbuffet's Air Balloon popped!");
     }
 }
 
-TO_DO_BATTLE_TEST("Fillet Away fails if the user's Attack, Sp. Atk and Speed are all maxed out")
+TO_DO_BATTLE_TEST("Fillet Away fails if the user's Attack, SP. ATK and Speed are all maxed out")
 

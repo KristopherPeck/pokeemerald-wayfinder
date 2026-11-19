@@ -67,7 +67,7 @@ DOUBLE_BATTLE_TEST("Throat Spray does not activate if both foes take no damage f
     }
 }
 
-SINGLE_BATTLE_TEST("Throat Spray increases Sp. Atk by one stage")
+SINGLE_BATTLE_TEST("Throat Spray increases SP. ATK by one stage")
 {
     s16 normalHit;
     s16 boostedHit;

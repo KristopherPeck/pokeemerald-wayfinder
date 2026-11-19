@@ -91,14 +91,14 @@ SINGLE_BATTLE_TEST("Bug Bite eats the target's berry and immediately gains its e
                 }
             } else if (statId == STAT_SPDEF) {
                 if (item == ITEM_APICOT_BERRY) {
-                    MESSAGE("The Apicot Berry boosted Wobbuffet's Sp. Def!");
+                    MESSAGE("The Apicot Berry boosted Wobbuffet's SP. DEF!");
                 } else {
-                    MESSAGE("The Maranga Berry boosted Wobbuffet's Sp. Def!");
+                    MESSAGE("The Maranga Berry boosted Wobbuffet's SP. DEF!");
                 }
             } else if (statId == STAT_SPEED) {
                 MESSAGE("The Salac Berry boosted Wobbuffet's Speed!");
             } else if (statId == STAT_SPATK) {
-                MESSAGE("The Petaya Berry boosted Wobbuffet's Sp. Atk!");
+                MESSAGE("The Petaya Berry boosted Wobbuffet's SP. ATK!");
             }
         }
     } THEN {

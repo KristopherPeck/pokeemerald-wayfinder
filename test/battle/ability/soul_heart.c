@@ -1,7 +1,7 @@
 #include "global.h"
 #include "test/battle.h"
 
-SINGLE_BATTLE_TEST("Soul Heart boosts Sp. Atk after opponent uses Memento")
+SINGLE_BATTLE_TEST("Soul Heart boosts SP. ATK after opponent uses Memento")
 {
     GIVEN {
         ASSUME(GetMoveEffect(MOVE_MEMENTO) == EFFECT_MEMENTO);

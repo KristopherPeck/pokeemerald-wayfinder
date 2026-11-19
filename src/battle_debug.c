@@ -337,8 +337,8 @@ static const struct ListMenuItem sStatsListItems[] =
     {COMPOUND_STRING("Attack"),     LIST_STAT_ATTACK},
     {COMPOUND_STRING("Defense"),    LIST_STAT_DEFENSE},
     {COMPOUND_STRING("Speed"),      LIST_STAT_SPEED},
-    {COMPOUND_STRING("Sp. Atk"),    LIST_STAT_SP_ATK},
-    {COMPOUND_STRING("Sp. Def"),    LIST_STAT_SP_DEF},
+    {COMPOUND_STRING("SP. ATK"),    LIST_STAT_SP_ATK},
+    {COMPOUND_STRING("SP. DEF"),    LIST_STAT_SP_DEF},
 };
 
 static const struct ListMenuItem sStatus1ListItems[] =

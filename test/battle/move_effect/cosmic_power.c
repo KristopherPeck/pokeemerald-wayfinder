@@ -16,6 +16,6 @@ SINGLE_BATTLE_TEST("Cosmic Power increases the user's Defense and Sp. Defense by
     } SCENE {
         ANIMATION(ANIM_TYPE_MOVE, MOVE_COSMIC_POWER, player);
         MESSAGE("Wobbuffet's Defense rose!");
-        MESSAGE("Wobbuffet's Sp. Def rose!");
+        MESSAGE("Wobbuffet's SP. DEF rose!");
     }
 }

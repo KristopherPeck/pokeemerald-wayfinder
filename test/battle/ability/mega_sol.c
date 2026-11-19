@@ -317,7 +317,7 @@ SINGLE_BATTLE_TEST("Mega Sol: Solar Beam does not need a charging turn if user h
 }
 
 // Not clear if this is a bug or not
-SINGLE_BATTLE_TEST("Mega Sol: Growth increases Attack and Sp. Atk by 2 stages under Mega Sol (Gen 5+)")
+SINGLE_BATTLE_TEST("Mega Sol: Growth increases Attack and SP. ATK by 2 stages under Mega Sol (Gen 5+)")
 {
     GIVEN {
         WITH_CONFIG(B_GROWTH_STAT_RAISE, GEN_1);

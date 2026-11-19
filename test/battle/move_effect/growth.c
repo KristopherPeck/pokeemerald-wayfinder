@@ -1,7 +1,7 @@
 #include "global.h"
 #include "test/battle.h"
 
-SINGLE_BATTLE_TEST("Growth increases Attack and Sp. Atk by 1 stage or 2 stages under Sun (Gen 5+)")
+SINGLE_BATTLE_TEST("Growth increases Attack and SP. ATK by 1 stage or 2 stages under Sun (Gen 5+)")
 {
     enum Move move;
     PARAMETRIZE { move = MOVE_CELEBRATE;}

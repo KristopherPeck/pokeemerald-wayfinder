@@ -244,8 +244,8 @@ const struct FollowerMsgInfo gFollowerSurpriseMessages[] = {
 };
 
 // Unconditional curious messages
-static const u8 sCuriousMsg00[] = _("Your POKéMON is looking around\nrestlessly for something.");
-static const u8 sCuriousMsg01[] = _("Your POKéMON wasn't watching where\nit was going and ran into you!");
+static const u8 sCuriousMsg00[] = _("Your Pokémon is looking around\nrestlessly for something.");
+static const u8 sCuriousMsg01[] = _("Your Pokémon wasn't watching where\nit was going and ran into you!");
 static const u8 sCuriousMsg02[] = _("Sniff, sniff! Is there something\nnearby?");
 static const u8 sCuriousMsg03[] = _("{STR_VAR_1} is rolling a pebble\naround playfully.");
 static const u8 sCuriousMsg04[] = _("{STR_VAR_1} is wandering around and\nsearching for something.");
