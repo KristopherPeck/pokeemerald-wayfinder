@@ -129,7 +129,7 @@ Route110_TrickHousePuzzle2_Text_PaulPostBattle:
 	.string "in this house all by himself.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own gym one day.\n"
+	.string "I want to make my own Gym one day.\n"
 	.string "So, I'm studying how to set traps.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:

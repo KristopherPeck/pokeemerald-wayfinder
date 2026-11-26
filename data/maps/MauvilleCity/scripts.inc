@@ -475,7 +475,7 @@ MauvilleCity_Text_UncleYourePushingIt:
 	.string "Since you started living with Pokémon,\n"
 	.string "you have grown quite a lot stronger.\p"
 	.string "But don't you think you're pushing it\n"
-	.string "to suddenly challenge a gym?$"
+	.string "to suddenly challenge a Gym?$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
 	.string "Wally: I'm not pushing it.\p"

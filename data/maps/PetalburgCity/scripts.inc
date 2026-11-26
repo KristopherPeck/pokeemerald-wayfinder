@@ -707,7 +707,7 @@ PetalburgCity_Text_AreYouRookieTrainer:
 	.string "A rookie trainer?\p"
 	.string "Do you know what Pokémon trainers\n"
 	.string "do when they reach a new town?\p"
-	.string "They first check what kind of gym\n"
+	.string "They first check what kind of Gym\n"
 	.string "is in the town.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:

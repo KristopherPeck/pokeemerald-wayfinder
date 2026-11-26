@@ -603,7 +603,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
 	.string "I've been hearing things about\n"
 	.string "a tough new trainer.\p"
 	.string "This trainer's supposed to be beating\n"
-	.string "gym leaders, even.\p"
+	.string "Gym Leaders, even.\p"
 	.string "Do you know anything about this\n"
 	.string "new trainer?$"
 

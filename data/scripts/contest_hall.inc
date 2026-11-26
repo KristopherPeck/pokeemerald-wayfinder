@@ -1360,7 +1360,7 @@ LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
 	.string "This is the reception counter for\n"
 	.string "POKéMON CONTESTS.\p"
 	.string "Oh? It appears that you don't have\n"
-	.string "a {POKEBLOCK} CASE yet.\p"
+	.string "a Pokéblock CASE yet.\p"
 	.string "In that case, we need to provide you\n"
 	.string "with this!$"
 

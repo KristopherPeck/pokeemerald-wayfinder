@@ -11204,7 +11204,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Razz Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Razz."),
         .pocket = POCKET_BERRIES,
@@ -11221,7 +11221,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Bluk Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Bluk."),
         .pocket = POCKET_BERRIES,
@@ -11238,7 +11238,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Nanab Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Nanab."),
         .pocket = POCKET_BERRIES,
@@ -11255,7 +11255,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Wepear Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Wepear."),
         .pocket = POCKET_BERRIES,
@@ -11272,7 +11272,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Pinap Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Pinap."),
         .pocket = POCKET_BERRIES,
@@ -11397,7 +11397,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Cornn Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Cornn."),
         .pocket = POCKET_BERRIES,
@@ -11414,7 +11414,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Magost Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Magost."),
         .pocket = POCKET_BERRIES,
@@ -11431,7 +11431,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Rabuta Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Rabuta."),
         .pocket = POCKET_BERRIES,
@@ -11448,7 +11448,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Nomel Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Nomel."),
         .pocket = POCKET_BERRIES,
@@ -11465,7 +11465,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Spelon Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Spelon."),
         .pocket = POCKET_BERRIES,
@@ -11482,7 +11482,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Pamtre Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Pamtre."),
         .pocket = POCKET_BERRIES,
@@ -11499,7 +11499,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Watmel Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Watmel."),
         .pocket = POCKET_BERRIES,
@@ -11516,7 +11516,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Durin Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Durin."),
         .pocket = POCKET_BERRIES,
@@ -11533,7 +11533,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Belue Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow Belue."),
         .pocket = POCKET_BERRIES,
@@ -12153,7 +12153,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Enigma Berries"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "{POKEBLOCK} ingredient.\n"
+            "Pokéblock ingredient.\n"
             "Plant in loamy soil\n"
             "to grow a mystery."),
         .pocket = POCKET_BERRIES,
@@ -14082,11 +14082,11 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_POKEBLOCK_CASE] =
     {
-        .name = ITEM_NAME("{POKEBLOCK} Case"),
+        .name = ITEM_NAME("Pokéblock Case"),
         .price = 0,
         .description = COMPOUND_STRING(
             "A case for holding\n"
-            "{POKEBLOCK}s made with\n"
+            "Pokéblocks made with\n"
             "a Berry Blender."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

@@ -304,7 +304,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "made it here!\p"
 	.string "I have been entrusted with the…\n"
 	.string "No, wait.\p"
-	.string "I am Flannery, and I'm the gym\n"
+	.string "I am Flannery, and I'm the Gym\n"
 	.string "leader here!\p"
 	.string "Uh…\n"
 	.string "Dare not underestimate me, though\l"
