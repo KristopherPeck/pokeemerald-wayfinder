@@ -212,7 +212,7 @@ Route23_Movement_WalkDown::
 	step_end
 
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Only truly skilled TRAINERS are\n"
+	.string "Only truly skilled trainers are\n"
 	.string "allowed through.\p"
 	.string "You don't have the {STR_VAR_1}\n"
 	.string "yet!$"

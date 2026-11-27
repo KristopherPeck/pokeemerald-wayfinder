@@ -521,7 +521,7 @@ LilycoveCity_PokemonCenter_1F_EventScript_Pikachu::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady:
-	.string "I'm the FAVOR LADY…$"
+	.string "I'm the Favor Lady…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing:
 	.string "I've recently developed an obsession\n"
@@ -595,10 +595,10 @@ LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
 	.string "Oh, you can't have it if you don't have\n"
 	.string "the space for it.\p"
 	.string "Please come see me when you get\n"
-	.string "your BAG organized…$"
+	.string "your Bag organized…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady:
-	.string "I'm the QUIZ LADY!\n"
+	.string "I'm the Quiz Lady!\n"
 	.string "I love quizzes!$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingToTakeYourQuiz:
@@ -705,8 +705,8 @@ LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger:
 	.string "your quiz challenge right away.$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady:
-	.string "I'm the CONTEST LADY!\n"
-	.string "I sure do love CONTESTS!$"
+	.string "I'm the Contest Lady!\n"
+	.string "I sure do love contests!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock:
 	.string "Thanks for your Pokéblock before!$"
@@ -741,7 +741,7 @@ LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate:
 LilycoveCity_PokemonCenter_1F_Text_IllUseYourPokeblock:
 	.string "Yay!\n"
 	.string "Thank you!\p"
-	.string "I'll feed my POKéMON your Pokéblock\n"
+	.string "I'll feed my Pokémon your Pokéblock\n"
 	.string "right away.$"
 
 LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
@@ -761,7 +761,7 @@ LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
 LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests:
 	.string "Hmm…\p"
 	.string "I think we may be ready to enter\n"
-	.string "some CONTESTS.\p"
+	.string "some contests.\p"
 	.string "If you see us in one somewhere,\n"
 	.string "I hope you'll cheer for us.$"
 
