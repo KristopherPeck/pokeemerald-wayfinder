@@ -2468,6 +2468,7 @@ static void DebugAction_FlagsVars_SwitchPokeNav(u8 taskId)
     else
         PlaySE(SE_PC_LOGIN);
     FlagToggle(FLAG_SYS_POKENAV_GET);
+    FlagToggle(FLAG_DEXNAV_LEVEL);
 }
 
 static void DebugAction_FlagsVars_SwitchMatchCall(u8 taskId)
